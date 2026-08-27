@@ -266,17 +266,19 @@ const snow = {
 </table>
 
 <p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GitHub-@Icedmist-24292f?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&style=for-the-badge" alt="ORCID"/></a>
-  <a href="https://Facebook.com/icedmist"><img src="https://img.shields.io/badge/Facebook-icedmist-1877F2?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GITHUB-%40ICEDMIST-16A534?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GITHUB @ICEDMIST green"/></a>
+  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LINKEDIN-NASIR-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LINKEDIN NASIR blue"/></a>
+  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-16A534?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" alt="ORCID green"/></a>
+  <a href="https://Facebook.com/icedmist"><img src="https://img.shields.io/badge/FACEBOOK-ICEDMIST-0e75b6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="FACEBOOK blue"/></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=scaleIn" width="100%" alt="green-blue divider — same as top cards"/>
+
 <p align="center">
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true" height="160" alt="stats"/></a>
-  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true" height="160" alt="langs"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true&title_color=16A534&text_color=0e75b6&icon_color=16A534&bg_color=0d1117&hide_border=true&border_radius=12" height="160" alt="stats — green-blue on dark"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true&title_color=16A534&text_color=0e75b6&bg_color=0d1117&hide_border=true&border_radius=12" height="160" alt="langs — green-blue on dark"/></a>
 </p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true" width="70%" alt="streak"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true&background=0d1117&currStreakNum=16A534&sideNums=0e75b6&currStreakLabel=16A534&sideLabels=0e75b6&dates=8b949e&border=30363d" width="70%" alt="streak — green/blue on dark"/></p>
 
 <p align="center">
   <picture>
