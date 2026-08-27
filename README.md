@@ -1,14 +1,6 @@
-<p align="center">
-  <a href="https://github.com/Icedmist" title="Icedmist on GitHub">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/enterprise-hero-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/enterprise-hero-light.svg">
-      <img src="https://cocoindex.io/blobs/github/homepage/enterprise-hero-light.svg" alt="Snow — AI • Cloud • Automation — building reliable, incremental systems from codebases to products. Only the Δ is reprocessed." width="100%" draggable="false"/>
-    </picture>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0969da&height=200&section=header&text=Snow❄️%20Icedmist&fontSize=42&fontColor=fff&animation=fadeIn&desc=AI%20•%20Cloud%20•%20Automation&descAlignY=75&descSize=16" width="100%" alt="Snow header"/>
 
-<h1 align="center">Snow❄️ Icedmist — <em>AI • Cloud • Automation</em></h1>
+<h1 align="center">Snow❄️ Icedmist</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=The+Vendetta+of+a+Gentleman+Leaves+no+Man+Standing;Building+reliable+systems+that+stay+fresh">
@@ -17,40 +9,32 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist" title="GitHub — @Icedmist"><img src="https://img.shields.io/badge/GitHub-Icedmist-24292f?style=for-the-badge&logo=github" height="36" align="absmiddle" alt="GitHub — @Icedmist"/></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b" title="LinkedIn — Nasir Ibrahim Imam"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?style=for-the-badge&logo=linkedin" height="36" align="absmiddle" alt="LinkedIn"/></a> &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0003-9321-2853" title="ORCID"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-A6CE39?style=for-the-badge&logo=orcid" height="36" align="absmiddle" alt="ORCID"/></a> &nbsp;·&nbsp;
-  <a href="mailto:talk2icedmist@gmail.com" title="Email — talk2icedmist@gmail.com"><img src="https://img.shields.io/badge/Email-talk2icedmist-D14836?style=for-the-badge&logo=gmail" height="36" align="absmiddle" alt="Email"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GitHub-@Icedmist-24292f?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID"/></a>
+  <a href="mailto:talk2icedmist@gmail.com"><img src="https://img.shields.io/badge/Email-talk2icedmist-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-<p align="center">I turn ideas into <b>reliable, incremental</b> products — from device telemetry and hospital systems to store OS and learning platforms. AI + Cloud + Automation, parallel by default, declarative by design.</p>
 <p align="center">
-  <b>Build</b> · ship the delta &nbsp;·&nbsp; <b>Scale</b> · parallel by default &nbsp;·&nbsp; <b>Ship</b> · Python • TypeScript • Dart
+  <img src="https://komarev.com/ghpvc/?username=Icedmist&style=flat-square&label=profile+views&color=0e75b6" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Icedmist?style=flat-square&label=followers&color=0969da" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Icedmist?style=flat-square&label=stars&color=FB6A76" alt="stars"/>
+  <img src="https://img.shields.io/badge/repos-39-16A534?style=flat-square" alt="repos"/>
 </p>
 
-<div align="center">
+<p align="center">I turn ideas into <b>reliable, incremental</b> products — from device telemetry and hospital systems to store OS and learning platforms. Parallel by default, declarative by design.</p>
 
-[![followers](https://img.shields.io/github/followers/Icedmist?style=flat-square&label=followers&color=0969da)](https://github.com/Icedmist?tab=followers)
-[![stars](https://img.shields.io/github/stars/Icedmist?style=flat-square&label=stars&color=FB6A76)](https://github.com/Icedmist?tab=stars)
-[![repos](https://img.shields.io/badge/repos-39-16A534?style=flat-square)](https://github.com/Icedmist?tab=repositories)
-[![python](https://img.shields.io/badge/python-3572A5?style=flat-square&logo=python&logoColor=white)](https://github.com/Icedmist?tab=repositories&q=&type=&language=python)
-[![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Icedmist?tab=repositories&q=&type=&language=typescript)
-[![dart](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/Icedmist?tab=repositories&q=&type=&language=dart)
-[![views](https://komarev.com/ghpvc/?username=Icedmist&style=flat-square&label=profile+views&color=0e75b6)](https://github.com/Icedmist)
+---
 
-</div>
-
-<br/>
+### ● snow@icedmist — zsh — 80×24
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/181909398?v=4" width="100" height="100" style="border-radius:50%" alt="Icedmist avatar"/>
-  <br/>
-  <sub>snow@icedmist — zsh — 80×24 • rendered with <code>fastfetch</code> + <code>chafa</code></sub>
+  <img src="https://avatars.githubusercontent.com/u/181909398?v=4" width="110" height="110" style="border-radius:50%" alt="Icedmist avatar"/>
 </p>
 
 ```js
-// $ fastfetch  —  $ chafa avatar.png --format symbols
-// $ silicon profile.js -o profile.png  —  $ onefetch
+// $ fastfetch — $ chafa avatar.png --format symbols
+// $ silicon profile.js -o profile.png — $ onefetch
 const snow = {
   role: "AI • Cloud • Automation",
   motto: "Vendetta of a Gentleman",
@@ -60,218 +44,189 @@ const snow = {
 };
 ```
 
-<p align="center"><sub>Linux tools: <code>fastfetch</code>/<code>neofetch</code> + <code>chafa</code>/<code>viu</code>/<code>catimg</code> for avatar ASCII, <code>silicon</code> or <code>carbon.now.sh</code> for code-window PNGs, <code>onefetch</code> for repo ASCII. Try: <code>chafa --format symbols avatar.png</code></sub></p>
+<p align="center"><sub>Linux tools: <code>fastfetch</code> / <code>neofetch</code> + <code>chafa</code> / <code>viu</code> / <code>catimg</code> for ASCII, <code>silicon</code> or <code>carbon.now.sh</code> for code-window PNGs, <code>onefetch</code> for repo ASCII. Try: <code>chafa --format symbols avatar.png</code></sub></p>
 
-<br/>
+---
 
-<h2 align="center">Featured Builds ❤️</h2>
-<p align="center"><sub>3 recent builds — each card designed from its README (same 70% card style, now your projects)</sub></p>
+## Featured Builds ❤️
 
-<p align="center">
-  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — Street-level Wi-Fi triangulation (~50m) + battery telemetry — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-code.svg" alt="device-beacon — README: Street-level Wi-Fi BSSID → Apple DB + OSM (~50m), battery & power telemetry, anti-theft, proactive alerts. Zero-dependency Python Telegram bot for laptops/RPis." width="70%"/></a>
-</p>
-<p align="center"><sub><b>device-beacon</b> — Python • Telegram bot • Linux</sub></p>
+<p align="center"><sub>3 most recent — cards rendered from READMEs (not a template)</sub></p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/nexafinal" title="Nexa Store OS v2 — React 19 + Vite 7 + Tailwind 4 + Firebase — offline-first POS"><img src="https://cocoindex.io/blobs/github/homepage/example-multicode.svg" alt="Nexa Store OS v2 — README: React 19 · Vite 7 · Tailwind 4 · Firebase (Firestore/Auth/Functions). Offline-first POS, multi-branch inventory, Paystack virtual accounts, CRM & credit ledger, RBAC. TypeScript." width="70%"/></a>
+  <a href="https://github.com/Icedmist/device-beacon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=device-beacon&theme=transparent&hide_border=true&show_owner=true" alt="device-beacon pin"/></a>
+  <a href="https://github.com/Icedmist/nexafinal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=nexafinal&theme=transparent&hide_border=true&show_owner=true" alt="nexafinal pin"/></a>
 </p>
-<p align="center"><sub><b>nexafinal — Nexa Store OS</b> — TypeScript • React • Firebase • Vercel</sub></p>
-
 <p align="center">
-  <a href="https://github.com/Icedmist/Evergreeners-web" title="Evergreeners — Digital garden, heatmap + streak tracking — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-kg.svg" alt="Evergreeners — README: Digital garden, GitHub-style heatmap, streak tracking, Better Auth + Drizzle ORM + Postgres + Fastify. Dark-mode Tailwind, developer-focused habit tracking." width="70%"/></a>
+  <a href="https://github.com/Icedmist/Evergreeners-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=Evergreeners-web&theme=transparent&hide_border=true&show_owner=true" alt="Evergreeners-web pin"/></a>
 </p>
-<p align="center"><sub><b>Evergreeners</b> — TypeScript • Fastify • Postgres • Better Auth</sub></p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**device-beacon**<br/>
+<sub>🛰️ Street-level Wi-Fi BSSID → Apple DB + OSM (~50m), battery telemetry, anti-theft, Telegram bot. Python, zero-dep, runs on Pis/laptops.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**nexafinal — Nexa Store OS**<br/>
+<sub>React 19 · Vite 7 · Tailwind 4 · Firebase. Offline-first POS, multi-branch inventory, Paystack virtual accounts, CRM + RBAC. TypeScript.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**Evergreeners**<br/>
+<sub>Digital garden — heatmap + streak tracking, Better Auth + Drizzle + Postgres + Fastify. Dark Tailwind, habit compounding.</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>See all 39 repos →</b></a></p>
 
-<br/><br/>
+---
 
-<h2 align="center">How I Build — <em>like React, for shipping</em></h2>
+## How I Build
+
+```mermaid
+flowchart LR
+  A[Idea / Problem] --> B[Design]
+  B --> C[Build]
+  C --> D[Ship — the Δ]
+  D --> E[Observe]
+  E --> A
+```
+
+<p align="center"><sub><b>Target = F(Idea)</b> — declare the desired state, the system keeps it fresh. I ship the delta, not the whole.</sub></p>
+
+| Step | What I do | How |
+|---|---|---|
+| **01 — Discover** | Map the real problem, not the proxy | Interviews, `Board → Hospitals → Depts` modeling |
+| **02 — Design** | Minimal, explainable, offline-first | Figma → Tailwind, Firebase/Postgres schema |
+| **03 — Build** | Parallel by default, incremental | `TS/Python/Dart` · `React/Next.js · FastAPI · Flutter` |
+| **04 — Ship Δ** | Only changed dots re-run | `git` · `Docker` · `Vercel` · `Cloud Run` |
+| **05 — Observe** | Logs, telemetry, streaks | `device-beacon` style telemetry · `Evergreeners` heatmap |
+
+---
+
+## Stack — for long-horizon products
+
+<p align="center"><sub>8 core tools → engine → 6 targets</sub></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg" alt="How I build — Target = F(Idea). Declare the desired state, the system keeps it fresh. Your code stays simple — the engine handles the Δ." width="100%"/>
-  </picture>
+  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=python"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TS"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JS"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/>
+  <br/><sub>Python • TypeScript • JavaScript • React • Next.js • Tailwind • Dart • Flutter</sub>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg" alt="What happens when either side changes — I track per-row provenance so only the Δ propagates. Source change or code change, only affected dots re-run." width="100%"/>
-  </picture>
-</p>
-
-<p align="center"><a href="https://github.com/Icedmist"><b>See how I ship →</b></a></p>
-
-<br/><br/>
-
-<h2 align="center"><em>Stack</em> for long-horizon products</h2>
-
-<p align="center">
-  Product engineering for any scale —<br/>
-  with an <em>always-fresh, explainable</em> stack.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist?tab=repositories" title="Explore my stack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-light.svg" alt="Explore my stack" height="44" align="absmiddle"/></picture></a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg" alt="My stack — 8 source lanes (APIs, Devices, Web, Mobile, Cloud, Data, Bots, Content) through an incremental engine to 6 targets (Web, Mobile, Telegram Bots, Cloud, Data, Infra). Only the Δ is reprocessed." width="100%"/>
-  </picture>
-</p>
-
-<p align="center"><b>My stack — built-in logos</b> · 8 core tools → engine → 6 targets</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=python"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/></a>&nbsp;
-  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=typescript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>&nbsp;
-  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=javascript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/kana-dojo"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/plokitch-app"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/plokitch-app"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/></a>
-  <br/>
-  <sub>Python • TypeScript • JavaScript • React • Next.js • Tailwind • Dart • Flutter</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/gshsmb-hmis"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/propabridge-adk"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/Evergreeners-web"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/device-beacon"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>&nbsp;
-  <a href="https://github.com/Icedmist"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>&nbsp;
-  <a href="https://github.com/Icedmist/device-beacon"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
-  <br/>
-  <sub>Node • FastAPI • Firebase • Postgres • Vercel • Docker • Git • Linux</sub>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="Postgres"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/>
+  <br/><sub>Node • FastAPI • Firebase • Postgres • Vercel • Docker • Git • Linux</sub>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwindcss" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Google_ADK-Gemini-4285F4?logo=google&logoColor=white" alt="ADK"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify" alt="Fastify"/>
   <img src="https://img.shields.io/badge/Drizzle-ORM-C5F277" alt="Drizzle"/>
+  <img src="https://img.shields.io/badge/Google_ADK-Gemini-4285F4?logo=google" alt="ADK"/>
 </p>
 
-<br/><br/>
+---
 
-<h2 align="center">Why <em>this way?</em></h2>
+## Why this way?
 
-<p align="center">Ideas are only as good as the systems that ship them.<br/>Batch thinking drifts stale. I stay live — and only run the Δ.</p>
+|  | Principle |  |
+|---|---|---|
+| ⚡ | **Sub-second iteration** | Ship the Δ, not the world. Changes propagate in seconds, not batches. |
+| 💰 | **10× cheaper at scale** | Only changed dots re-run — skip 99% of compute/embed/LLM cost. |
+| 🔍 | **Explainable by default** | Every output traces to its source row — debuggable, auditable. |
+| 🛡️ | **Production-grade** | Retries, backoff, offline-first, no-data-loss — one bad row never stalls the flow. |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg" alt="Why this way? Sub-second iteration, 10× cheaper at scale, explainable by default, production-grade with retries and no-data-loss." width="100%"/>
-  </picture>
-</p>
+---
 
-<br/><br/>
-
-<h2 align="center">What I've <em>Built</em></h2>
+## What I've Built
 
 <p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>Working products — clone, run, ship →</b></a></p>
 
-<p align="center"><b>Selected from <a href="https://github.com/Icedmist?tab=repositories">39 repos</a> — AI, Cloud, Automation.</b></p>
+<p align="center">
+  <a href="https://github.com/Icedmist/device-beacon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=device-beacon&theme=transparent&hide_border=true" alt="device-beacon"/></a>
+  <a href="https://github.com/Icedmist/gshsmb-hmis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=gshsmb-hmis&theme=transparent&hide_border=true" alt="gshsmb-hmis"/></a>
+  <a href="https://github.com/Icedmist/nexafinal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=nexafinal&theme=transparent&hide_border=true" alt="nexafinal"/></a>
+  <a href="https://github.com/Icedmist/Evergreeners-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=Evergreeners-web&theme=transparent&hide_border=true" alt="Evergreeners-web"/></a>
+  <a href="https://github.com/Icedmist/kana-dojo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=kana-dojo&theme=transparent&hide_border=true" alt="kana-dojo"/></a>
+  <a href="https://github.com/Icedmist/propabridge-adk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=propabridge-adk&theme=transparent&hide_border=true" alt="propabridge-adk"/></a>
+  <a href="https://github.com/Icedmist/midnight-commits"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=midnight-commits&theme=transparent&hide_border=true" alt="midnight-commits"/></a>
+  <a href="https://github.com/Icedmist/gitledger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=gitledger&theme=transparent&hide_border=true" alt="gitledger"/></a>
+</p>
+
+<details>
+<summary><b>Details from READMEs</b> (click to expand)</summary>
+
+- **device-beacon** — *Street-level Wi-Fi BSSID → Apple DB + OSM (~50m), battery & power telemetry, anti-theft, proactive alerts. Zero-dep Python Telegram bot.*
+- **gshsmb-hmis** — *Board → Hospitals → Departments → Employees. Centralized HMIS for Gombe State. TypeScript.*
+- **nexafinal** — *React 19 · Vite 7 · Tailwind 4 · Firebase. Offline-first POS, multi-branch inventory, Paystack virtual accounts, CRM + RBAC.*
+- **Evergreeners-web** — *Digital garden, heatmap + streak, Better Auth + Drizzle + Postgres + Fastify.*
+- **kana-dojo** — *Aesthetic Japanese learning, Next.js + Vercel OSS, Duolingo/Monkeytype inspired.*
+- **propabridge-adk** — *Multilingual WhatsApp concierge (HA/YO/IG/Pidgin), Google ADK + Gemini + pgvector + MCP + Twilio — live traffic.*
+- **midnight-commits** — *Midnight Attendance: Streamlit + SQLite offline logger, Present/Absent/Late, live dashboard, CSV export.*
+- **gitledger** — *Git analytics ledger. TypeScript.*
+
+</details>
+
+---
+
+<p align="center"><i>Let's build together</i></p>
+<p align="center">Building something? <b>Let's ship it.</b> DM <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b">@nasir-ibrahim</a> or <a href="mailto:talk2icedmist@gmail.com">email me</a>. ❄️</p>
+
+---
+
+## Connect
 
 <p align="center">
-  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — README: Street-level Wi-Fi triangulation (Apple DB + OSM) to ~50m, battery telemetry, anti-theft, zero-dependency Telegram bot — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-code.svg" alt="device-beacon — from README: street-level geolocation via Wi-Fi BSSID → Apple DB + OSM (~50m), battery & power telemetry, anti-theft, proactive alerts. Zero-dependency Python bot for laptops/RPis. — animation: code index card" width="70%"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://img.shields.io/badge/GitHub-@Icedmist-24292f?logo=github&style=for-the-badge" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0003-9321-2853"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&style=for-the-badge" alt="ORCID"/></a>
+  <a href="https://Facebook.com/icedmist"><img src="https://img.shields.io/badge/Facebook-icedmist-1877F2?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/gshsmb-hmis" title="GSHSMB HMIS — README: Board → Hospitals → Departments → Employees hierarchy, centralized HMIS for Gombe State — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-intake.svg" alt="GSHSMB HMIS — from README: Board → Hospitals → Departments → Employees. Centralized Hospital Services Management Information System, TypeScript. — animation: structured intake card" width="70%"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true" height="160" alt="stats"/></a>
+  <a href="https://github.com/Icedmist"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true" height="160" alt="langs"/></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/nexafinal" title="Nexa Store OS v2 — README: React 19 + Vite 7 + Tailwind 4 + Firebase + TS, offline-first POS, multi-branch inventory, Paystack virtual accounts, multi-tier pricing — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-multicode.svg" alt="Nexa Store OS v2 — from README: React 19 · Vite 7 · Tailwind 4 · Firebase. Offline-first POS, multi-branch inventory, virtual accounts (Paystack), CRM & credit ledger. — animation: multi-code summarization card" width="70%"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/Evergreeners-web" title="Evergreeners — README: Digital garden, GitHub-style heatmap, streak tracking, Better Auth + Drizzle ORM + Postgres + Fastify — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-kg.svg" alt="Evergreeners — from README: digital garden, contribution heatmap, streak tracking, Dark-mode Tailwind, Better Auth, Drizzle + Postgres, Fastify API. — animation: knowledge-graph card" width="70%"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/kana-dojo" title="KanaDojo — README: Aesthetic Japanese learning, Next.js + Vercel OSS, Duolingo + Monkeytype inspired, customizable — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-podcast.svg" alt="KanaDojo — from README: aesthetic Japanese platform, Next.js, Vercel OSS Program, Duolingo/Monkeytype inspired, highly customizable training. — animation: podcast/learning card" width="70%"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/propabridge-adk" title="Propabridge ADK — README: Multilingual WhatsApp concierge (Hausa/Yoruba/Igbo/Pidgin), Google ADK + Gemini + pgvector + MCP + Twilio — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-hn-trending.svg" alt="Propabridge ADK — from README: multilingual WhatsApp concierge (EN/HA/YO/IG/Pidgin), Google ADK, Gemini embeddings + pgvector, MCP server, Twilio Voice. Live traffic, not sandbox. — animation: HN/LLM extraction card" width="70%"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/gitledger" title="GitLedger — README: TypeScript git analytics (fork) — 1 star"><img src="https://cocoindex.io/blobs/github/homepage/example-csv-kafka.svg" alt="GitLedger — TypeScript git analytics, ledger for commits. — animation: CSV→Kafka streaming card" width="70%"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Icedmist/midnight-commits" title="Midnight Attendance — README: Streamlit + SQLite offline logger, Present/Absent/Late, live dashboard, CSV export — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-pdf.svg" alt="Midnight Attendance — from README: Offline-first Streamlit + SQLite, interactive Present/Absent/Late, live logs dashboard, CSV export from attendance.db. — animation: PDF→RAG card" width="70%"/></a>
-</p>
-
-<br/>
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/share-build-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/share-build-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/share-build-light.svg" alt="Let's build together" height="36" draggable="false"/></picture></p>
-
-<p align="center">Building something? <b>Let's ship it.</b><br/>DM <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b">@nasir-ibrahim</a> on LinkedIn or <a href="mailto:talk2icedmist@gmail.com">email me</a>. I boost good work. ❄️</p>
-
-<br/>
-
-<h2 align="center">Connect</h2>
-
-<table width="100%" border="0" cellspacing="0" role="presentation">
-  <tr>
-    <td align="center" valign="middle" width="25%">
-      <a href="https://github.com/Icedmist" title="GitHub — @Icedmist"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-discord-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-discord-light.svg" alt="GitHub" width="100%"/></picture></a>
-    </td>
-    <td align="center" valign="middle" width="25%">
-      <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-youtube-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-youtube-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-youtube-light.svg" alt="LinkedIn" width="100%" draggable="false"/></picture></a>
-    </td>
-    <td align="center" valign="middle" width="25%">
-      <a href="https://orcid.org/0009-0003-9321-2853" title="ORCID"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-blog-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-blog-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-blog-light.svg" alt="ORCID" width="100%"/></picture></a>
-    </td>
-    <td align="center" valign="middle" width="25%">
-      <a href="https://Facebook.com/icedmist" title="Facebook — icedmist"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-x-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-x-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-x-light.svg" alt="Facebook" width="100%" draggable="false"/></picture></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Icedmist?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true" alt="Icedmist stats" height="165"/></a>
-  <a href="https://github.com/Icedmist?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true" alt="Top langs" height="165"/></a>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true" alt="Streak" width="70%"/>
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true" width="70%" alt="streak"/></p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake — contribution grid" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake"/>
   </picture>
 </p>
-<p align="center"><sub>Snake animation — enable at <code>Platane/snk</code> workflow → <code>github-contribution-grid-snake.svg</code> (dark/light). Also try <code>github-profile-trophy</code> below.</sub></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Icedmist&theme=transparent&no-bg=true&no-frame=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="trophy"/></a></p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Icedmist&theme=transparent&no-bg=true&no-frame=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies" width="100%"/></a>
-</p>
-
-<p align="center">
-  📝 <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  🐛 <a href="https://github.com/Icedmist?tab=repositories"><b>Repositories</b></a> &nbsp;·&nbsp;
+  📝 <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><b>LinkedIn</b></a> ·
+  🐛 <a href="https://github.com/Icedmist?tab=repositories"><b>Repositories</b></a> ·
   💬 <a href="mailto:talk2icedmist@gmail.com"><b>Say hi</b></a>
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0969da&height=80&section=footer&text=&animation=fadeIn" width="100%" alt="footer"/>
 
 <p align="center"><sub>© Snow❄️ Icedmist — The Vendetta of a Gentleman Leaves no Man Standing</sub></p>
