@@ -1,4 +1,18 @@
 <svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<style>
+@media (prefers-color-scheme: light) {
+  rect[fill="#0d1117"] { fill: #ffffff !important; }
+  rect[fill="#161b22"] { fill: #f6f8fa !important; }
+  rect[fill="#0d1117"][stroke="#30363d"] { stroke: #d0d7de !important; }
+  text[fill="#c9d1d9"] { fill: #24292f !important; }
+  text[fill="#8b949e"] { fill: #57606a !important; }
+  text[fill="#24292f"] { fill: #24292f !important; }
+  [stroke="#30363d"] { stroke: #d0d7de !important; }
+  [fill="#30363d"] { fill: #d0d7de !important; }
+  line[stroke="#30363d"] { stroke: #d0d7de !important; }
+}
+</style>
+
 <title>Stack engine — 8 sources → engine → 6 targets — only Δ reprocessed</title>
 <rect width="900" height="420" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="450" y="24" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">STACK ENGINE — <tspan fill="#16A534">8 sources</tspan> → engine → <tspan fill="#0e75b6">6 targets</tspan></text>
