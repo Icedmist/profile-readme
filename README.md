@@ -36,11 +36,11 @@
 ### ● snow@icedmist — zsh — 80×24
 
 <p align="center">
-  <img src="whoami.svg" width="100%" alt="snow@icedmist — zsh — animated terminal: avatar + whoami code (fastfetch/chafa/silicon) — green/blue"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="whoami-dark.svg"><source media="(prefers-color-scheme: light)" srcset="whoami-light.svg"><img src="whoami-dark.svg" width="100%" alt="snow@icedmist — zsh — animated terminal: avatar + whoami code (fastfetch/chafa/silicon) — green/blue"/></picture>
 </p>
 
 <p align="center">
-  <img src="linux-tools.svg" width="100%" alt="Linux tools — icons: fastfetch · neofetch · chafa · viu · catimg · silicon · carbon · onefetch — animated green/blue"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="linux-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="linux-tools-light.svg"><img src="linux-tools-dark.svg" width="100%" alt="Linux tools — icons: fastfetch · neofetch · chafa · viu · catimg · silicon · carbon · onefetch — animated green/blue"/></picture>
 </p>
 <p align="center"><sub><code>fastfetch</code> / <code>neofetch</code> + <code>chafa</code> / <code>viu</code> / <code>catimg</code> for ASCII · <code>silicon</code> / <code>carbon.now.sh</code> for code-window PNGs · <code>onefetch</code> for repo ASCII</sub></p>
 
@@ -51,7 +51,7 @@
 ## Featured Builds ❤️
 
 <p align="center">
-  <img src="featured-hero.svg" width="100%" alt="Featured Builds — animated hero: your repos → avatar glow → fresh builds — device-beacon · nexafinal · Evergreeners — green/blue pulse, Δ arrows"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="featured-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="featured-hero-light.svg"><img src="featured-hero-dark.svg" width="100%" alt="Featured Builds — animated hero: your repos → avatar glow → fresh builds — device-beacon · nexafinal · Evergreeners — green/blue pulse, Δ arrows"/></picture>
 </p>
 
 <p align="center"><sub>Your 3 flagships — file tree → avatar glow → fresh builds. <b>Animated SVG</b> — pulsing glow, live dots, Δ arrows inspired by your repos (not just text).</sub></p>
@@ -96,17 +96,17 @@
 ## How I Build
 
 <p align="center">
-  <img src="how-build-hero.svg" width="100%" alt="How I Build — Target = F(Idea) — sources → F() → target dots, animated — green/blue"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="how-build-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="how-build-hero-light.svg"><img src="how-build-hero-dark.svg" width="100%" alt="How I Build — Target = F(Idea) — sources → F() → target dots, animated — green/blue"/></picture>
 </p>
 
 <p align="center">
-  <img src="either-side-change.svg" width="100%" alt="What happens when either side changes — source change vs code change — Δ propagates, animated pulses"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="either-side-change-dark.svg"><source media="(prefers-color-scheme: light)" srcset="either-side-change-light.svg"><img src="either-side-change-dark.svg" width="100%" alt="What happens when either side changes — source change vs code change — Δ propagates, animated pulses"/></picture>
 </p>
 
 <p align="center"><sub><b>Target = F(Idea)</b> — declare the desired state, the system keeps it fresh. I ship the delta, not the whole.</sub></p>
 
 <p align="center">
-  <img src="how-steps.svg" width="100%" alt="How I Build — 5 steps animated — Discover → Design → Build → Ship Δ → Observe — explainable simple"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="how-steps-dark.svg"><source media="(prefers-color-scheme: light)" srcset="how-steps-light.svg"><img src="how-steps-dark.svg" width="100%" alt="How I Build — 5 steps animated — Discover → Design → Build → Ship Δ → Observe — explainable simple"/></picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=scaleIn" width="100%" alt="divider"/>
@@ -118,7 +118,7 @@
 <p align="center"><sub>8 core tools → engine → 6 targets</sub></p>
 
 <p align="center">
-  <img src="stack-engine.svg" width="100%" alt="Stack engine — 8 sources → your flow → engine → 6 targets — only Δ reprocessed — animated green/blue"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="stack-engine-dark.svg"><source media="(prefers-color-scheme: light)" srcset="stack-engine-light.svg"><img src="stack-engine-dark.svg" width="100%" alt="Stack engine — 8 sources → your flow → engine → 6 targets — only Δ reprocessed — animated green/blue"/></picture>
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@
 ## Why this way?
 
 <p align="center">
-  <img src="why-expanded.svg" width="100%" alt="Why this way? — expanded 4 pillars — Sub-second fresh, 10× cheaper, Explainable, Production-grade — spacious, simple examples"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="why-expanded-dark.svg"><source media="(prefers-color-scheme: light)" srcset="why-expanded-light.svg"><img src="why-expanded-dark.svg" width="100%" alt="Why this way? — expanded 4 pillars — Sub-second fresh, 10× cheaper, Explainable, Production-grade — spacious, simple examples"/></picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=fadeIn" width="100%" alt="divider"/>
@@ -178,7 +178,7 @@
 <p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>Working products — clone, run, ship →</b></a></p>
 
 <p align="center">
-  <img src="what-built-grid.svg" width="100%" alt="What I've Built — 8 products animated — device-beacon · gshsmb-hmis · nexafinal · Evergreeners · kana-dojo · propabridge · midnight-commits · gitledger — explainable simple"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="what-built-grid-dark.svg"><source media="(prefers-color-scheme: light)" srcset="what-built-grid-light.svg"><img src="what-built-grid-dark.svg" width="100%" alt="What I've Built — 8 products animated — device-beacon · gshsmb-hmis · nexafinal · Evergreeners · kana-dojo · propabridge · midnight-commits · gitledger — explainable simple"/></picture>
 </p>
 <p align="center">
 <sub>

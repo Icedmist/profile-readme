@@ -1,0 +1,64 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>How I Build — 5 steps — spacious explainable</title>
+<rect width="900" height="620" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="450" y="28" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">HOW I BUILD — <tspan fill="#16A534">5 steps</tspan> — from idea to observability — spacious</text>
+<text x="450" y="44" text-anchor="middle" font-family="monospace" font-size="8.5" fill="#8b949e">each step = one plain-English action + one concrete how</text>
+<!-- Step 01 -->
+<g id="s1">
+<rect x="24" y="62" width="852" height="90" rx="12" fill="#161b22" stroke="#16A534" stroke-width="1.3">
+<animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="44" y="84" font-family="monospace" font-size="11" font-weight="700" fill="#16A534">01 — Discover</text>
+<text x="44" y="104" font-family="monospace" font-size="10" fill="#c9d1d9">Map the real problem, not the proxy</text>
+<text x="44" y="122" font-family="monospace" font-size="9.5" fill="#8b949e">How: Interviews → <tspan fill="#0e75b6">Board → Hospitals → Depts</tspan> modeling — see the org, not the form</text>
+<circle cx="840" cy="100" r="5" fill="#16A534"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="820" y="88" font-family="monospace" font-size="8" fill="#8b949e">● start</text>
+</g>
+<!-- Step 02 -->
+<g id="s2">
+<rect x="24" y="168" width="852" height="90" rx="12" fill="#161b22" stroke="#0e75b6" stroke-width="1.3">
+<animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+</rect>
+<text x="44" y="174" font-family="monospace" font-size="11" font-weight="700" fill="#0e75b6">02 — Design</text>
+<text x="44" y="194" font-family="monospace" font-size="10" fill="#c9d1d9">Minimal, explainable, offline-first</text>
+<text x="44" y="212" font-family="monospace" font-size="9.5" fill="#8b949e">How: Figma → Tailwind, Firebase/Postgres schema — draw once, use everywhere</text>
+<circle cx="840" cy="190" r="5" fill="#0e75b6"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+</g>
+<!-- Step 03 -->
+<g id="s3">
+<rect x="24" y="274" width="852" height="90" rx="12" fill="#161b22" stroke="#16A534" stroke-width="1.3">
+<animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+</rect>
+<text x="44" y="264" font-family="monospace" font-size="11" font-weight="700" fill="#16A534">03 — Build</text>
+<text x="44" y="284" font-family="monospace" font-size="10" fill="#c9d1d9">Parallel by default, incremental</text>
+<text x="44" y="302" font-family="monospace" font-size="9.5" fill="#8b949e">How: TS/Python/Dart · React/Next.js · FastAPI · Flutter — build small, ship the Δ</text>
+<circle cx="840" cy="280" r="5" fill="#16A534"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+</g>
+<!-- Step 04 -->
+<g id="s4">
+<rect x="24" y="380" width="852" height="90" rx="12" fill="#161b22" stroke="#0e75b6" stroke-width="1.3">
+<animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+</rect>
+<text x="44" y="354" font-family="monospace" font-size="11" font-weight="700" fill="#0e75b6">04 — Ship Δ</text>
+<text x="44" y="374" font-family="monospace" font-size="10" fill="#c9d1d9">Only changed dots re-run</text>
+<text x="44" y="392" font-family="monospace" font-size="9.5" fill="#8b949e">How: git · Docker · Vercel · Cloud Run — push, only Δ ships</text>
+<circle cx="840" cy="370" r="5" fill="#0e75b6"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+</g>
+<!-- Step 05 -->
+<g id="s5">
+<rect x="24" y="486" width="852" height="90" rx="12" fill="#161b22" stroke="#16A534" stroke-width="1.3">
+<animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="3s" begin="2.4s" repeatCount="indefinite"/>
+</rect>
+<text x="44" y="444" font-family="monospace" font-size="11" font-weight="700" fill="#16A534">05 — Observe</text>
+<text x="44" y="464" font-family="monospace" font-size="10" fill="#c9d1d9">Logs, telemetry, streaks</text>
+<text x="44" y="482" font-family="monospace" font-size="9.5" fill="#8b949e">How: device-beacon telemetry · Evergreeners heatmap — see it live, fix fast</text>
+<circle cx="840" cy="460" r="5" fill="#16A534"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<!-- vertical connector -->
+<g stroke="#30363d" stroke-width="1.2" stroke-dasharray="6 6" opacity="0.5">
+<path d="M 450 140 V 152"><animate attributeName="stroke-dashoffset" values="0;12" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M 450 230 V 242"><animate attributeName="stroke-dashoffset" values="0;12" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></path>
+<path d="M 450 320 V 332"><animate attributeName="stroke-dashoffset" values="0;12" dur="1.2s" begin="0.6s" repeatCount="indefinite"/></path>
+<path d="M 450 410 V 422"><animate attributeName="stroke-dashoffset" values="0;12" dur="1.2s" begin="0.9s" repeatCount="indefinite"/></path>
+</g>
+</svg>

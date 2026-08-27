@@ -1,0 +1,75 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Stack engine — 8 sources → engine → 6 targets — only Δ reprocessed</title>
+<rect width="900" height="420" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="450" y="24" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">STACK ENGINE — <tspan fill="#16A534">8 sources</tspan> → engine → <tspan fill="#0e75b6">6 targets</tspan></text>
+<!-- sources left -->
+<g id="sources" font-family="monospace" font-size="8" text-anchor="middle">
+<g><rect x="22" y="48" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="72" y="66" fill="#c9d1d9">Codebases</text></g>
+<g><rect x="22" y="82" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="72" y="100" fill="#c9d1d9">APIs</text></g>
+<g><rect x="22" y="116" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="72" y="134" fill="#c9d1d9">Web · Mobile</text></g>
+<g><rect x="22" y="150" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="72" y="168" fill="#c9d1d9">Devices</text></g>
+<g><rect x="132" y="48" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="182" y="66" fill="#c9d1d9">Bots</text></g>
+<g><rect x="132" y="82" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="182" y="100" fill="#c9d1d9">Data</text></g>
+<g><rect x="132" y="116" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="182" y="134" fill="#c9d1d9">Content</text></g>
+<g><rect x="132" y="150" width="100" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="182" y="168" fill="#c9d1d9">Cloud</text></g>
+</g>
+<!-- flow code -->
+<g id="flow">
+<rect x="268" y="58" width="140" height="96" rx="10" fill="#161b22" stroke="#16A534" stroke-width="1.2"/>
+<text x="338" y="78" text-anchor="middle" font-family="monospace" font-size="8" fill="#8b949e">flow.py</text>
+<text x="338" y="94" text-anchor="middle" font-family="monospace" font-size="9" fill="#16A534">@snow.fn</text>
+<text x="338" y="108" text-anchor="middle" font-family="monospace" font-size="8" fill="#c9d1d9">chunks = split(src)</text>
+<text x="338" y="122" text-anchor="middle" font-family="monospace" font-size="8" fill="#0e75b6">target.row(embed)</text>
+<text x="338" y="140" text-anchor="middle" font-family="monospace" font-size="7" fill="#8b949e">only Δ re-embeds</text>
+</g>
+<!-- arrows sources -> flow -->
+<g stroke="#30363d" stroke-width="1" stroke-dasharray="4 4" fill="none">
+<path d="M232 62 H 268"><animate attributeName="stroke-dashoffset" values="0;8" dur="1s" repeatCount="indefinite"/></path>
+<path d="M232 96 H 268"><animate attributeName="stroke-dashoffset" values="0;8" dur="1s" begin="0.15s" repeatCount="indefinite"/></path>
+<path d="M232 130 H 268"><animate attributeName="stroke-dashoffset" values="0;8" dur="1s" begin="0.3s" repeatCount="indefinite"/></path>
+<path d="M232 164 H 268"><animate attributeName="stroke-dashoffset" values="0;8" dur="1s" begin="0.45s" repeatCount="indefinite"/></path>
+</g>
+<!-- engine -->
+<g id="engine">
+<rect x="440" y="58" width="140" height="96" rx="10" fill="#0d1117" stroke="#16A534" stroke-width="1.4"/>
+<circle cx="510" cy="85" r="18" fill="none" stroke="#16A534" stroke-opacity="0.3"><animate attributeName="r" values="18;24;18" dur="2.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.3;0.6;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="510" y="90" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">ENGINE</text>
+<text x="510" y="108" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8b949e">incremental</text>
+<text x="510" y="120" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#c9d1d9">Δ only</text>
+<text x="510" y="136" text-anchor="middle" font-family="monospace" font-size="7" fill="#0e75b6">cache → Δ → re-run</text>
+</g>
+<g stroke="#16A534" stroke-width="1.4" fill="none" stroke-dasharray="7 5">
+<path d="M408 106 H 440"><animate attributeName="stroke-dashoffset" values="0;12" dur="0.9s" repeatCount="indefinite"/></path>
+<path d="M580 106 H 620"><animate attributeName="stroke-dashoffset" values="0;12" dur="0.9s" repeatCount="indefinite"/></path>
+</g>
+<text x="424" y="102" font-family="monospace" font-size="7" fill="#16A534">Δ</text>
+<text x="600" y="102" font-family="monospace" font-size="7" fill="#16A534">Δ</text>
+<!-- targets right -->
+<g id="targets" font-family="monospace" font-size="8" text-anchor="middle">
+<g><rect x="620" y="48" width="110" height="28" rx="8" fill="#161b22" stroke="#0e75b6"/><text x="675" y="66" fill="#c9d1d9">Web</text></g>
+<g><rect x="620" y="82" width="110" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="675" y="100" fill="#c9d1d9">Mobile</text></g>
+<g><rect x="620" y="116" width="110" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="675" y="134" fill="#c9d1d9">Telegram</text></g>
+<g><rect x="740" y="48" width="110" height="28" rx="8" fill="#161b22" stroke="#16A534"/><text x="795" y="66" fill="#c9d1d9">Cloud</text></g>
+<g><rect x="740" y="82" width="110" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="795" y="100" fill="#c9d1d9">Data</text></g>
+<g><rect x="740" y="116" width="110" height="28" rx="8" fill="#161b22" stroke="#30363d"/><text x="795" y="134" fill="#c9d1d9">Infra</text></g>
+</g>
+<!-- cache note -->
+<g font-family="monospace" font-size="7" fill="#8b949e" text-anchor="middle">
+<text x="338" y="174" fill="#16A534">● cached <tspan fill="#8b949e">unchanged src</tspan></text>
+<text x="510" y="174" fill="#0e75b6">● re-run <tspan fill="#8b949e">changed src</tspan></text>
+<text x="735" y="174" fill="#c9d1d9">target stays live</text>
+</g>
+<!-- control plane -->
+<g id="plane">
+<rect x="22" y="200" width="856" height="54" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="450" y="216" text-anchor="middle" font-family="monospace" font-size="8" letter-spacing="1" fill="#8b949e">CONTROL PLANE — always-on subsystems</text>
+<g font-family="monospace" font-size="7" fill="#c9d1d9" text-anchor="middle">
+<text x="90" y="234" fill="#16A534">● <tspan fill="#c9d1d9">caching</tspan></text><text x="180" y="234">catalog</text><text x="260" y="234">versioning</text><text x="350" y="234" fill="#0e75b6">● <tspan fill="#c9d1d9">lineage</tspan></text>
+<text x="430" y="234">scheduling</text><text x="520" y="234">metrics</text><text x="610" y="234" fill="#16A534">● <tspan fill="#c9d1d9">retries</tspan></text><text x="700" y="234">DLQ</text><text x="780" y="234">no-loss</text>
+</g>
+<circle cx="90" cy="232" r="2" fill="#16A534"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="232" r="2" fill="#0e75b6"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="232" r="2" fill="#16A534"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+</g>
+<text x="450" y="276" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8b949e">8 sources → your flow → engine → 6 targets — <tspan fill="#16A534">only the Δ is reprocessed</tspan></text>
+</svg>

@@ -1,0 +1,76 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Linux tools — icons for ASCII / code-window / repo</title>
+<rect width="900" height="160" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<text x="450" y="26" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.2" fill="#57606a">LINUX TOOLS — <tspan fill="#16A534">pick your renderer</tspan></text>
+<!-- fastfetch -->
+<g id="t1">
+<circle cx="90" cy="70" r="28" fill="#f6f8fa" stroke="#0e75b6" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+<text x="90" y="76" text-anchor="middle" font-size="18">💻</text>
+<text x="90" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">fastfetch</text>
+<text x="90" y="114" font-family="monospace" font-size="7" fill="#57606a">neofetch++</text>
+</g>
+<!-- neofetch -->
+<g id="t2">
+<circle cx="210" cy="70" r="28" fill="#f6f8fa" stroke="#16A534" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" begin="0.3s" repeatCount="indefinite"/>
+</circle>
+<text x="210" y="76" text-anchor="middle" font-size="18">🖥️</text>
+<text x="210" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">neofetch</text>
+<text x="210" y="114" font-family="monospace" font-size="7" fill="#57606a">system info</text>
+</g>
+<!-- chafa -->
+<g id="t3">
+<circle cx="330" cy="70" r="28" fill="#f6f8fa" stroke="#0e75b6" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" begin="0.6s" repeatCount="indefinite"/>
+</circle>
+<text x="330" y="76" text-anchor="middle" font-size="18">🖼️</text>
+<text x="330" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">chafa</text>
+<text x="330" y="114" font-family="monospace" font-size="7" fill="#57606a">--format symbols</text>
+</g>
+<!-- viu -->
+<g id="t4">
+<circle cx="450" cy="70" r="28" fill="#f6f8fa" stroke="#16A534" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" begin="0.9s" repeatCount="indefinite"/>
+</circle>
+<text x="450" y="76" text-anchor="middle" font-size="18">👁️</text>
+<text x="450" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">viu</text>
+<text x="450" y="114" font-family="monospace" font-size="7" fill="#57606a">catimg alt</text>
+</g>
+<!-- catimg -->
+<g id="t5">
+<circle cx="570" cy="70" r="28" fill="#f6f8fa" stroke="#0e75b6" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<text x="570" y="76" text-anchor="middle" font-size="18">🐱</text>
+<text x="570" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">catimg</text>
+<text x="570" y="114" font-family="monospace" font-size="7" fill="#57606a">kitty img</text>
+</g>
+<!-- silicon -->
+<g id="t6">
+<circle cx="690" cy="70" r="28" fill="#f6f8fa" stroke="#16A534" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" begin="1.5s" repeatCount="indefinite"/>
+</circle>
+<text x="690" y="76" text-anchor="middle" font-size="18">🦀</text>
+<text x="690" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">silicon</text>
+<text x="690" y="114" font-family="monospace" font-size="7" fill="#57606a">Rust code PNG</text>
+</g>
+<!-- carbon -->
+<g id="t7">
+<circle cx="790" cy="70" r="28" fill="#f6f8fa" stroke="#0e75b6" stroke-width="1.4">
+<animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.2s" begin="1.8s" repeatCount="indefinite"/>
+</circle>
+<text x="790" y="76" text-anchor="middle" font-size="16">⬢</text>
+<text x="790" y="102" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#24292f">carbon</text>
+<text x="790" y="114" font-family="monospace" font-size="7" fill="#57606a">carbon.now.sh</text>
+</g>
+<!-- bottom try line -->
+<rect x="200" y="130" width="500" height="22" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="450" y="144" text-anchor="middle" font-family="monospace" font-size="8" fill="#57606a">Try: <tspan fill="#16A534">chafa --format symbols avatar.png</tspan>  <tspan fill="#57606a">·</tspan>  <tspan fill="#0e75b6">silicon -l js profile.js</tspan>  <tspan fill="#57606a">·</tspan>  <tspan fill="#24292f">onefetch</tspan></text>
+<!-- onefetch label -->
+<g id="t8">
+<circle cx="450" cy="70" r="2" fill="transparent"/>
+</g>
+<text x="450" y="102" text-anchor="middle" font-family="monospace" font-size="7" fill="transparent">onefetch</text>
+</svg>

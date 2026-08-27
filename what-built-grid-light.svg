@@ -1,0 +1,89 @@
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>What I've Built — 8 products — spacious animated</title>
+<rect width="900" height="560" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+<text x="450" y="28" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#57606a">WHAT I'VE BUILT — <tspan fill="#16A534">8 products</tspan> — clone, run, ship →</text>
+<text x="450" y="44" text-anchor="middle" font-family="monospace" font-size="8" fill="#57606a">each card = one real repo — spacious, simple, with a one-line why</text>
+<!-- Row 1 — y 62 height 170 gap 16 -->
+<g id="b1">
+<rect x="20" y="62" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" repeatCount="indefinite"/></rect>
+<text x="34" y="82" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">● device-beacon</text>
+<text x="34" y="98" font-family="monospace" font-size="7" fill="#0e75b6">Python · Telegram</text>
+<text x="34" y="118" font-family="monospace" font-size="8" fill="#24292f">Wi-Fi BSSID → ~50m</text>
+<text x="34" y="132" font-family="monospace" font-size="8" fill="#24292f">battery telemetry</text>
+<text x="34" y="150" font-family="monospace" font-size="7.5" fill="#57606a">anti-theft · zero-dep</text>
+<text x="34" y="170" font-family="monospace" font-size="7" fill="#57606a">bot for laptops/RPis</text>
+<text x="34" y="190" font-family="monospace" font-size="7.5" fill="#16A534">→ live via Telegram</text>
+<circle cx="200" cy="74" r="3" fill="#16A534"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+</g>
+<g id="b2">
+<rect x="240" y="62" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="0.3s" repeatCount="indefinite"/></rect>
+<text x="254" y="82" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">● gshsmb-hmis</text>
+<text x="254" y="98" font-family="monospace" font-size="7" fill="#16A534">TypeScript · HMIS</text>
+<text x="254" y="118" font-family="monospace" font-size="8" fill="#24292f">Board → Hospitals</text>
+<text x="254" y="132" font-family="monospace" font-size="8" fill="#24292f">→ Departments</text>
+<text x="254" y="150" font-family="monospace" font-size="7.5" fill="#57606a">→ Employees</text>
+<text x="254" y="170" font-family="monospace" font-size="7" fill="#57606a">Gombe centralized</text>
+<text x="254" y="190" font-family="monospace" font-size="7.5" fill="#0e75b6">→ RBAC · production</text>
+</g>
+<g id="b3">
+<rect x="460" y="62" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="0.6s" repeatCount="indefinite"/></rect>
+<text x="474" y="82" font-family="monospace" font-size="10" font-weight="700" fill="#24292f">● nexafinal</text>
+<text x="474" y="98" font-family="monospace" font-size="7" fill="#0e75b6">TS · React 19</text>
+<text x="474" y="118" font-family="monospace" font-size="8" fill="#24292f">Offline-first POS</text>
+<text x="474" y="132" font-family="monospace" font-size="8" fill="#24292f">Paystack · RBAC</text>
+<text x="474" y="150" font-family="monospace" font-size="7.5" fill="#57606a">multi-branch inventory</text>
+<text x="474" y="170" font-family="monospace" font-size="7" fill="#57606a">Vite 7 · Tailwind 4</text>
+<text x="474" y="190" font-family="monospace" font-size="7.5" fill="#16A534">→ store OS</text>
+</g>
+<g id="b4">
+<rect x="680" y="62" width="200" height="190" rx="12" fill="#f6f8fa" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text x="694" y="82" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">● Evergreeners</text>
+<text x="694" y="98" font-family="monospace" font-size="7" fill="#16A534">TS · Fastify</text>
+<text x="694" y="118" font-family="monospace" font-size="8" fill="#24292f">heatmap · streak</text>
+<text x="694" y="132" font-family="monospace" font-size="8" fill="#24292f">Better Auth</text>
+<text x="694" y="150" font-family="monospace" font-size="7.5" fill="#57606a">Drizzle + Postgres</text>
+<text x="694" y="170" font-family="monospace" font-size="7" fill="#57606a">digital garden</text>
+<text x="694" y="190" font-family="monospace" font-size="7.5" fill="#0e75b6">→ habit compounding</text>
+</g>
+<!-- Row 2 — y 252 -->
+<g id="b5">
+<rect x="20" y="272" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="34" y="272" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">● kana-dojo</text>
+<text x="34" y="288" font-family="monospace" font-size="7" fill="#0e75b6">TS · Next.js</text>
+<text x="34" y="308" font-family="monospace" font-size="8" fill="#24292f">Japanese learning</text>
+<text x="34" y="322" font-family="monospace" font-size="8" fill="#24292f">Vercel OSS ·</text>
+<text x="34" y="340" font-family="monospace" font-size="7.5" fill="#57606a">Duolingo-inspired</text>
+<text x="34" y="360" font-family="monospace" font-size="7" fill="#57606a">customizable training</text>
+<text x="34" y="380" font-family="monospace" font-size="7.5" fill="#16A534">→ kanadojo.com</text>
+</g>
+<g id="b6">
+<rect x="240" y="272" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="254" y="272" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">● propabridge</text>
+<text x="254" y="288" font-family="monospace" font-size="7" fill="#16A534">Python · ADK</text>
+<text x="254" y="308" font-family="monospace" font-size="8" fill="#24292f">WhatsApp · HA/YO</text>
+<text x="254" y="322" font-family="monospace" font-size="8" fill="#24292f">Gemini · pgvector</text>
+<text x="254" y="340" font-family="monospace" font-size="7.5" fill="#57606a">MCP · Twilio · live</text>
+<text x="254" y="360" font-family="monospace" font-size="7" fill="#57606a">verified concierge</text>
+<text x="254" y="380" font-family="monospace" font-size="7.5" fill="#0e75b6">→ Nigeria property</text>
+</g>
+<g id="b7">
+<rect x="460" y="272" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="474" y="272" font-family="monospace" font-size="10" font-weight="700" fill="#24292f">● midnight</text>
+<text x="474" y="288" font-family="monospace" font-size="7" fill="#16A534">Python · Streamlit</text>
+<text x="474" y="308" font-family="monospace" font-size="8" fill="#24292f">Present / Absent / Late</text>
+<text x="474" y="322" font-family="monospace" font-size="8" fill="#24292f">SQLite · offline</text>
+<text x="474" y="340" font-family="monospace" font-size="7.5" fill="#57606a">live dashboard</text>
+<text x="474" y="360" font-family="monospace" font-size="7" fill="#57606a">CSV export</text>
+<text x="474" y="380" font-family="monospace" font-size="7.5" fill="#0e75b6">→ attendance.db</text>
+</g>
+<g id="b8">
+<rect x="680" y="272" width="208" height="190" rx="12" fill="#f6f8fa" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="2.5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="694" y="272" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">● gitledger</text>
+<text x="694" y="288" font-family="monospace" font-size="7" fill="#0e75b6">TS · Analytics</text>
+<text x="694" y="308" font-family="monospace" font-size="8" fill="#24292f">git log → ledger</text>
+<text x="694" y="322" font-family="monospace" font-size="8" fill="#24292f">commit insights</text>
+<text x="694" y="340" font-family="monospace" font-size="7.5" fill="#57606a">ranked · auditable</text>
+<text x="694" y="360" font-family="monospace" font-size="7" fill="#57606a">fork · 1★</text>
+<text x="694" y="380" font-family="monospace" font-size="7.5" fill="#16A534">→ ledger</text>
+</g>
+</svg>

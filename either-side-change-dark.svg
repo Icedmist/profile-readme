@@ -1,0 +1,52 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>What happens when either side changes — Δ propagates at minimum cost</title>
+<rect width="900" height="340" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="450" y="24" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">WHAT HAPPENS WHEN <tspan fill="#16A534">EITHER SIDE</tspan> CHANGES</text>
+<text x="450" y="38" text-anchor="middle" font-family="monospace" font-size="8.5" fill="#8b949e">track per-row provenance — Δ propagates at minimum cost</text>
+<!-- Top: Source change -->
+<g id="source-change">
+<text x="30" y="62" font-family="monospace" font-size="9" letter-spacing="1" fill="#0e75b6">SOURCE CHANGE</text>
+<rect x="30" y="72" width="140" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="42" y="90" font-family="monospace" font-size="10" fill="#8b949e">a.md <tspan fill="#c9d1d9">—</tspan></text>
+<text x="42" y="104" font-family="monospace" font-size="10" fill="#16A534">b.md ✎ edited</text>
+<text x="42" y="116" font-family="monospace" font-size="10" fill="#8b949e">c.md —</text>
+<!-- F -->
+<rect x="380" y="78" width="140" height="44" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="450" y="96" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">F()</text>
+<text x="450" y="110" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8b949e">v1 — same</text>
+<!-- dots -->
+<g id="dots1">
+<circle cx="620" cy="96" r="7" fill="#30363d"/><circle cx="650" cy="96" r="7" fill="#16A534"><animate attributeName="r" values="7;10;7" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;1;0.7" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="680" cy="96" r="7" fill="#30363d"/><circle cx="710" cy="96" r="7" fill="#30363d"/><circle cx="740" cy="96" r="7" fill="#30363d"/>
+</g>
+<text x="680" y="134" text-anchor="middle" font-family="monospace" font-size="8" fill="#16A534">only 1 dot re-syncs <tspan fill="#8b949e">(coral pulse)</tspan></text>
+<!-- arrows -->
+<g stroke="#30363d" stroke-width="1" stroke-dasharray="5 5" fill="none">
+<path d="M170 98 H 380"><animate attributeName="stroke-dashoffset" values="0;10" dur="1s" repeatCount="indefinite"/></path>
+<path d="M520 98 H 610"><animate attributeName="stroke-dashoffset" values="0;10" dur="1s" repeatCount="indefinite"/></path>
+</g>
+<circle cx="650" cy="96" r="14" fill="none" stroke="#16A534" stroke-opacity="0.5"><animate attributeName="r" values="14;22;14" dur="1.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.5;0;0.5" dur="1.6s" repeatCount="indefinite"/></circle>
+</g>
+<!-- Bottom: Code change -->
+<g id="code-change">
+<text x="30" y="168" font-family="monospace" font-size="9" letter-spacing="1" fill="#0e75b6">CODE CHANGE</text>
+<rect x="30" y="178" width="140" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="42" y="196" font-family="monospace" font-size="10" fill="#8b949e">a.md</text>
+<text x="42" y="210" font-family="monospace" font-size="10" fill="#8b949e">b.md</text>
+<text x="42" y="222" font-family="monospace" font-size="10" fill="#8b949e">c.md</text>
+<!-- F v2 -->
+<rect x="380" y="184" width="140" height="44" rx="8" fill="#161b22" stroke="#16A534"/>
+<text x="450" y="202" text-anchor="middle" font-family="monospace" font-size="10" fill="#16A534">F() v1 → v2</text>
+<text x="450" y="216" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#0e75b6">rewritten</text>
+<!-- dots -->
+<g id="dots2">
+<circle cx="620" cy="206" r="7" fill="#30363d"/><circle cx="650" cy="206" r="7" fill="#30363d"/><circle cx="680" cy="206" r="7" fill="#0e75b6"><animate attributeName="r" values="7;10;7" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle><circle cx="710" cy="206" r="7" fill="#16A534"><animate attributeName="r" values="7;10;7" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle><circle cx="740" cy="206" r="7" fill="#30363d"/>
+</g>
+<text x="680" y="244" text-anchor="middle" font-family="monospace" font-size="8" fill="#0e75b6">only dependent dots re-run <tspan fill="#8b949e">(amber pulse)</tspan></text>
+<g stroke="#30363d" stroke-width="1" stroke-dasharray="5 5" fill="none">
+<path d="M170 204 H 380"><animate attributeName="stroke-dashoffset" values="0;10" dur="1s" repeatCount="indefinite"/></path>
+<path d="M520 204 H 610"><animate attributeName="stroke-dashoffset" values="0;10" dur="1s" repeatCount="indefinite"/></path>
+</g>
+<circle cx="680" cy="206" r="14" fill="none" stroke="#0e75b6" stroke-opacity="0.5"><animate attributeName="r" values="14;22;14" dur="1.6s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.5;0;0.5" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="710" cy="206" r="14" fill="none" stroke="#16A534" stroke-opacity="0.5"><animate attributeName="r" values="14;22;14" dur="1.6s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.5;0;0.5" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
