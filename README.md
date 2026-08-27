@@ -8,8 +8,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0e75b6&center=true&vCenter=true&width=620&lines=Building+reliable+systems+that+stay+fresh;AI+•+Cloud+•+Automation+—+TS+•+Python+•+Dart">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0e75b6&center=true&vCenter=true&width=620&lines=Building+reliable+systems+that+stay+fresh;AI+•+Cloud+•+Automation+—+TS+•+Python+•+Dart" alt="Typing — blue stack" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0e75b6&center=true&vCenter=true&width=620&lines=Building+reliable+systems+that+stay+fresh;AI+Cloud+Automation+-+TS+Python+Dart">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0e75b6&center=true&vCenter=true&width=620&lines=Building+reliable+systems+that+stay+fresh;AI+Cloud+Automation+-+TS+Python+Dart" alt="Typing — blue stack" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 ### ● snow@icedmist — zsh — 80×24
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/181909398?v=4" width="110" height="110" style="border-radius:50%" alt="Icedmist avatar"/>
+  <img src="https://github.com/Icedmist.png" width="140" height="140" style="border-radius:50%; border:3px solid #16A534;" alt="Icedmist avatar"/>
 </p>
 
 ```js
@@ -175,11 +175,7 @@ const snow = {
 ## Why this way?
 
 <p align="center">
-  <img src="why-hero.svg" width="100%" alt="Why this way? — 4 pillars: sub-second, 10× cheaper, explainable, production-grade — animated"/>
-</p>
-
-<p align="center">
-  <img src="why-table.svg" width="100%" alt="Why this way? — 4 principles animated table — Sub-second, 10× cheaper, Explainable, Production-grade — simple explainable"/>
+  <img src="why-expanded.svg" width="100%" alt="Why this way? — expanded 4 pillars — Sub-second fresh, 10× cheaper, Explainable, Production-grade — spacious, simple examples"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=fadeIn" width="100%" alt="divider"/>
