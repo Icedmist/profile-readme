@@ -1,58 +1,64 @@
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex" title="CocoIndex on GitHub">
+  <a href="https://github.com/Icedmist" title="Icedmist on GitHub">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/enterprise-hero-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/enterprise-hero-light.svg">
-      <img src="https://cocoindex.io/blobs/github/homepage/enterprise-hero-light.svg" alt="Enterprise corpus — codebase, Slack, meeting notes, and documentation — flowing continuously through the CocoIndex incremental sync engine into a production AI agent with always-fresh context. Only the Δ (delta) is reprocessed on every change." width="100%" draggable="false"/>
+      <img src="https://cocoindex.io/blobs/github/homepage/enterprise-hero-light.svg" alt="Snow — AI • Cloud • Automation — building reliable, incremental systems from codebases to products. Only the Δ is reprocessed." width="100%" draggable="false"/>
     </picture>
   </a>
 </p>
-<h1 align="center">Your agents deserve <em>fresh context.</em></h1>
+
+<h1 align="center">Snow❄️ Icedmist — <em>AI • Cloud • Automation</em></h1>
 
 <p align="center">
-  <strong>Star us&nbsp;❤️&nbsp;→</strong>&nbsp;<a href="https://github.com/cocoindex-io/cocoindex" title="Star CocoIndex on GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/star-btn-small-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/star-btn-small-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/star-btn-small-light.svg" alt="Star CocoIndex on GitHub" height="36" align="absmiddle"/></picture></a> &nbsp;·&nbsp;
-  <a href="https://cocoindex.io" title="cocoindex.io homepage"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/coco-inline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/coco-inline-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/coco-inline-light.svg" alt="cocoindex.io homepage" height="36" align="absmiddle"/></picture></a> &nbsp;·&nbsp;
-  <a href="https://cocoindex.io/docs" title="CocoIndex documentation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/docs-inline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/docs-inline-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/docs-inline-light.svg" alt="CocoIndex documentation" height="36" align="absmiddle"/></picture></a> &nbsp;·&nbsp;
-  <a href="https://discord.com/invite/zpA9S2DR7s" title="Join the CocoIndex Discord"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/discord-inline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/discord-inline-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/discord-inline-light.svg" alt="Join the CocoIndex Discord" height="36" align="absmiddle"/></picture></a>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=The+Vendetta+of+a+Gentleman+Leaves+no+Man+Standing;Building+reliable+systems+that+stay+fresh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=The+Vendetta+of+a+Gentleman+Leaves+no+Man+Standing;Building+reliable+systems+that+stay+fresh" alt="Typing — The Vendetta of a Gentleman Leaves no Man Standing" />
+  </a>
 </p>
 
-<p align="center">CocoIndex turns codebases, meeting notes, inboxes, Slack, PDFs, and videos into live, continuously fresh context for your AI agents and LLM apps to reason over effectively — with minimal incremental processing. Get your production AI agent ready in 10 minutes with reliable, continuously fresh data — no stale batches, no context gap.
-</p>
 <p align="center">
-  <b>Incremental</b> · only the delta &nbsp;·&nbsp; <b>Any scale</b> · parallel by default &nbsp;·&nbsp; <b>Declarative</b> · Python, 5 min
+  <a href="https://github.com/Icedmist" title="GitHub — @Icedmist"><img src="https://img.shields.io/badge/GitHub-Icedmist-24292f?style=for-the-badge&logo=github" height="36" align="absmiddle" alt="GitHub — @Icedmist"/></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b" title="LinkedIn — Nasir Ibrahim Imam"><img src="https://img.shields.io/badge/LinkedIn-Nasir-0A66C2?style=for-the-badge&logo=linkedin" height="36" align="absmiddle" alt="LinkedIn"/></a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0003-9321-2853" title="ORCID"><img src="https://img.shields.io/badge/ORCID-0009--0003--9321--2853-A6CE39?style=for-the-badge&logo=orcid" height="36" align="absmiddle" alt="ORCID"/></a> &nbsp;·&nbsp;
+  <a href="mailto:talk2icedmist@gmail.com" title="Email — talk2icedmist@gmail.com"><img src="https://img.shields.io/badge/Email-talk2icedmist-D14836?style=for-the-badge&logo=gmail" height="36" align="absmiddle" alt="Email"/></a>
+</p>
+
+<p align="center">I turn ideas into <b>reliable, incremental</b> products — from device telemetry and hospital systems to store OS and learning platforms. AI + Cloud + Automation, parallel by default, declarative by design.</p>
+<p align="center">
+  <b>Build</b> · ship the delta &nbsp;·&nbsp; <b>Scale</b> · parallel by default &nbsp;·&nbsp; <b>Ship</b> · Python • TypeScript • Dart
 </p>
 
 <div align="center">
 
-[![stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat-square&label=stars&color=FB6A76)](https://github.com/cocoindex-io/cocoindex)
-[![downloads](https://img.shields.io/pepy/dt/cocoindex?style=flat-square&label=downloads&color=16A534)](https://pepy.tech/projects/cocoindex)
-[![pypi](https://img.shields.io/pypi/v/cocoindex?style=flat-square&label=pypi&color=E59A63)](https://pypi.org/project/cocoindex/)
-[![python](https://img.shields.io/badge/python-3.10--3.13-3572A5?style=flat-square)](https://www.python.org/)
-[![rust](https://img.shields.io/badge/rust-core-db6d28?style=flat-square)](https://www.rust-lang.org/)
-[![license](https://img.shields.io/badge/license-Apache--2.0-5B5BD6?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
-[![discord](https://img.shields.io/discord/1314801574169673738?style=flat-square&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.com/invite/zpA9S2DR7s)
+[![followers](https://img.shields.io/github/followers/Icedmist?style=flat-square&label=followers&color=0969da)](https://github.com/Icedmist?tab=followers)
+[![stars](https://img.shields.io/github/stars/Icedmist?style=flat-square&label=stars&color=FB6A76)](https://github.com/Icedmist?tab=stars)
+[![repos](https://img.shields.io/badge/repos-39-16A534?style=flat-square)](https://github.com/Icedmist?tab=repositories)
+[![python](https://img.shields.io/badge/python-3572A5?style=flat-square&logo=python&logoColor=white)](https://github.com/Icedmist?tab=repositories&q=&type=&language=python)
+[![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Icedmist?tab=repositories&q=&type=&language=typescript)
+[![dart](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/Icedmist?tab=repositories&q=&type=&language=dart)
+[![views](https://komarev.com/ghpvc/?username=Icedmist&style=flat-square&label=profile+views&color=0e75b6)](https://github.com/Icedmist)
 
 </div>
 
 <br/>
 
-<h2 align="center">Built with CocoIndex ❤️</h2>
+<h2 align="center">Featured Builds ❤️</h2>
 
 <p align="center">
-  <a href="https://cocoindex.io/cocoindex-code" title="CocoIndex-code — flagship MCP server for AI coding agents: AST-aware, incremental, semantic code index. Claude Code and Cursor see your whole repo instantly."><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg" alt="CocoIndex-code — flagship MCP server for AI coding agents. AST-aware incremental semantic code index that keeps live call graphs, symbols, vectors, and chunks fresh on every commit. 70% fewer tokens per turn, 80-90% cache hits on re-index, sub-second freshness. Supports Python, TypeScript, Rust, and Go. Features: Δ-only incremental processing, semantic search by meaning (not grep), call graphs and blast-radius analysis, global repo view for duplicates and architecture. Build coding agents (generate, refactor) and code-review agents (catch, approve). One install — Claude Code, Cursor, and other MCP-aware agents see your whole repository instantly. Keywords: MCP server, coding agent, code intelligence, AST chunking, semantic code search, call graph, vector embedding, repository context, Claude Code, Cursor, incremental indexing, blast radius." width="100%"/></picture></a>
+  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — lightweight Linux telemetry + high-accuracy Wi-Fi location bot for Telegram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg" alt="Featured — device-beacon: lightweight Linux telemetry, battery + Wi-Fi location for Telegram. My flagship incremental bot — parallel, live, always-fresh." width="100%"/></picture></a>
 </p>
 
-<p align="center"><a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples"><b>See all 20+ examples · updated every week →</b></a></p>
+<p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>See all 39 repos →</b></a></p>
 
 <br/><br/>
 
-<h2 align="center">React — <em>for data engineering</em></h2>
+<h2 align="center">How I Build — <em>like React, for shipping</em></h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg" alt="React — for data engineering. The CocoIndex mental model: Target = F(Source). A persistent-state-driven dataflow where you declare the desired target state and the engine keeps it in sync with the latest source data and code, forever, at low latency and low cost." width="100%"/>
+    <img src="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg" alt="How I build — Target = F(Idea). Declare the desired state, the system keeps it fresh. Your code stays simple — the engine handles the Δ." width="100%"/>
   </picture>
 </p>
 
@@ -60,120 +66,128 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg" alt="What happens when either side changes — CocoIndex tracks per-row provenance so the Δ propagates at minimum cost. Source change re-syncs only the affected target dot; code change re-runs only dots whose outputs depend on the changed code." width="100%"/>
+    <img src="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg" alt="What happens when either side changes — I track per-row provenance so only the Δ propagates. Source change or code change, only affected dots re-run." width="100%"/>
   </picture>
 </p>
 
-<p align="center"><a href="https://cocoindex.io/react-cocoindex"><b>See the React ↔ CocoIndex mental model →</b></a></p>
+<p align="center"><a href="https://github.com/Icedmist"><b>See how I ship →</b></a></p>
 
 <br/><br/>
 
-<h2 align="center"><em>Incremental engine</em> for long-horizon agents</h2>
+<h2 align="center"><em>Stack</em> for long-horizon products</h2>
 
 <p align="center">
-  Data transformation for any engineer, designed for AI workloads —<br/>
-  with a smart incremental engine for <em>always-fresh, explainable data.</em>
+  Product engineering for any scale —<br/>
+  with an <em>always-fresh, explainable</em> stack.
 </p>
 
 <p align="center">
-  <a href="https://cocoindex.io/docs/programming_guide/core_concepts" title="Learn the CocoIndex core concepts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-light.svg" alt="Learn the concept" height="44" align="absmiddle"/></picture></a>
+  <a href="https://github.com/Icedmist?tab=repositories" title="Explore my stack"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/learn-concept-btn-light.svg" alt="Explore my stack" height="44" align="absmiddle"/></picture></a>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg" alt="CocoIndex's Python-native transformation flows connect 8 source categories through the incremental engine out to 6 target stores. Only the Δ is reprocessed — unchanged src hits the cache, changed src re-runs split() and Δ → re-embed." width="100%"/>
+    <img src="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg" alt="My stack — 8 source lanes (APIs, Devices, Web, Mobile, Cloud, Data, Bots, Content) through an incremental engine to 6 targets (Web, Mobile, Telegram Bots, Cloud, Data, Infra). Only the Δ is reprocessed." width="100%"/>
   </picture>
 </p>
 
 <br/><br/>
 
-<h2 align="center">Why <em>incremental?</em></h2>
+<h2 align="center">Why <em>this way?</em></h2>
 
-<p align="center">Your agents are only as good as the data they see.<br/>Batch pipelines drift stale. CocoIndex stays live — and only runs the Δ.</p>
+<p align="center">Ideas are only as good as the systems that ship them.<br/>Batch thinking drifts stale. I stay live — and only run the Δ.</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
-    <img src="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg" alt="Why incremental? Sub-second fresh, 10× cheaper at scale, explainable by default, production-grade Rust core with retries, back-off, dead-letter queues, and no-data-loss guarantees." width="100%"/>
+    <img src="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg" alt="Why this way? Sub-second iteration, 10× cheaper at scale, explainable by default, production-grade with retries and no-data-loss." width="100%"/>
   </picture>
 </p>
 
 <br/><br/>
 
-<h2 align="center">What can you <em>build?</em></h2>
+<h2 align="center">What I've <em>Built</em></h2>
 
-<p align="center"><a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples"><b>See all 20+ examples · updated every week →</b></a></p>
+<p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>Working products — clone, run, ship →</b></a></p>
 
-<p align="center"><b>Working starters from <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples">the examples tree</a> — clone, plug your source, ship.</b></p>
+<p align="center"><b>Selected from <a href="https://github.com/Icedmist?tab=repositories">39 repos</a> — AI, Cloud, Automation.</b></p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/code_embedding" title="Real-time code index"><img src="https://cocoindex.io/blobs/github/homepage/example-code.svg" alt="Real-time code index — walk a git repo, AST-chunk source files, embed with sentence-transformers, upsert to pgvector / LanceDB, incremental on every commit." width="70%"/></a>
+  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — Linux telemetry + Wi-Fi location bot for Telegram"><img src="https://cocoindex.io/blobs/github/homepage/example-code.svg" alt="device-beacon — lightweight Linux telemetry, battery and Wi-Fi location bot for Telegram. Python, incremental." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/pdf_embedding" title="PDF → RAG index"><img src="https://cocoindex.io/blobs/github/homepage/example-pdf.svg" alt="PDF → RAG index — ingest PDFs from local, S3, or GDrive, extract + chunk text, embed chunks, upsert to pgvector / LanceDB. Classic retrieval-augmented-generation stack, incremental." width="70%"/></a>
+  <a href="https://github.com/Icedmist/gshsmb-hmis" title="GSHSMB HMIS — Hospital Management Information System for Gombe State"><img src="https://cocoindex.io/blobs/github/homepage/example-pdf.svg" alt="GSHSMB HMIS — hospital service management system. TypeScript, production-grade." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/hn_trending_topics" title="HN trending topics"><img src="https://cocoindex.io/blobs/github/homepage/example-hn-trending.svg" alt="HN trending topics — pull Hacker News threads via Algolia, recursively parse comments, LLM-extract topics with Gemini 2.5 Flash, rank by weighted hit count, store in Postgres. Incremental." width="70%"/></a>
+  <a href="https://github.com/Icedmist/nexafinal" title="Nexa OS — store operating system"><img src="https://cocoindex.io/blobs/github/homepage/example-multicode.svg" alt="Nexa OS — store OS. TypeScript, multi-service." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge" title="Conversation → knowledge graph"><img src="https://cocoindex.io/blobs/github/homepage/example-kg.svg" alt="Conversation → knowledge graph — LLM extracts people, topics, decisions, action items from transcripts and upserts into Neo4j / Kuzu. Live graph, incremental." width="70%"/></a>
+  <a href="https://github.com/Icedmist/Evergreeners-web" title="Evergreeners — web platform"><img src="https://cocoindex.io/blobs/github/homepage/example-kg.svg" alt="Evergreeners — web platform. TypeScript, community." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/multi_codebase_summarization" title="Multi-repo summarization"><img src="https://cocoindex.io/blobs/github/homepage/example-multicode.svg" alt="Multi-repo summarization — walk N git repos, extract structure, LLM-summarize per-repo + a rolled-up org summary, refresh on every push." width="70%"/></a>
+  <a href="https://github.com/Icedmist/kana-dojo" title="kana-dojo — aesthetic Japanese learning platform"><img src="https://cocoindex.io/blobs/github/homepage/example-podcast.svg" alt="kana-dojo — Japanese learning platform, Next.js + Vercel. Contributions welcome." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/patient_intake_extraction_baml" title="Structured extraction"><img src="https://cocoindex.io/blobs/github/homepage/example-intake.svg" alt="Structured extraction — BAML / DSPy typed schema extraction from forms, PDFs, intakes, invoices into Postgres / warehouse. Incremental." width="70%"/></a>
+  <a href="https://github.com/Icedmist/propabridge-adk" title="Propabridge ADK — Python agent kit"><img src="https://cocoindex.io/blobs/github/homepage/example-intake.svg" alt="Propabridge ADK — Python agent development kit." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge" title="Podcast → knowledge graph"><img src="https://cocoindex.io/blobs/github/homepage/example-podcast.svg" alt="Podcast → knowledge graph — transcribe YouTube / Spotify audio with speaker diarization, LLM-extract speakers and statements, resolve entities across episodes, store in SurrealDB / Neo4j." width="70%"/></a>
+  <a href="https://github.com/Icedmist/gitledger" title="GitLedger — TypeScript git analytics"><img src="https://cocoindex.io/blobs/github/homepage/example-hn-trending.svg" alt="GitLedger — git analytics. TypeScript, ranked insights." width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocoindex-io/cocoindex/tree/main/examples/csv_to_kafka" title="CSV → Kafka live"><img src="https://cocoindex.io/blobs/github/homepage/example-csv-kafka.svg" alt="CSV → Kafka live — watch a folder of CSV files, publish each row as a JSON message to a Kafka topic via CocoIndex's Kafka target connector. Incremental, sub-second, no producer loop." width="70%"/></a>
+  <a href="https://github.com/Icedmist/midnight-commits" title="midnight-commits — Python automation"><img src="https://cocoindex.io/blobs/github/homepage/example-csv-kafka.svg" alt="midnight-commits — Python automation, incremental, no loops." width="70%"/></a>
 </p>
 
 <br/>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/share-build-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/share-build-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/share-build-light.svg" alt="Share what you build" height="36" draggable="false"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/share-build-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/share-build-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/share-build-light.svg" alt="Let's build together" height="36" draggable="false"/></picture></p>
 
-<p align="center">Building something with CocoIndex? <b>We want to see it.</b><br/>Tag <a href="https://x.com/cocoindex_io">@cocoindex_io</a> on X or drop a link in <a href="https://discord.com/invite/zpA9S2DR7s">#showcase</a> on Discord. We'll boost it. 🥥</p>
+<p align="center">Building something? <b>Let's ship it.</b><br/>DM <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b">@nasir-ibrahim</a> on LinkedIn or <a href="mailto:talk2icedmist@gmail.com">email me</a>. I boost good work. ❄️</p>
 
 <br/>
 
-<h2 align="center">Community</h2>
+<h2 align="center">Connect</h2>
 
 <table width="100%" border="0" cellspacing="0" role="presentation">
   <tr>
     <td align="center" valign="middle" width="25%">
-      <a href="https://discord.com/invite/zpA9S2DR7s" title="Join the CocoIndex Discord"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-discord-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-discord-light.svg" alt="Join the CocoIndex Discord community — live chat with maintainers and users, showcase your projects, get help building RAG pipelines and knowledge graphs" width="100%"/></picture></a>
+      <a href="https://github.com/Icedmist" title="GitHub — @Icedmist"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-discord-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-discord-light.svg" alt="GitHub" width="100%"/></picture></a>
     </td>
     <td align="center" valign="middle" width="25%">
-      <a href="https://www.youtube.com/@cocoindex-io" title="Subscribe to the CocoIndex YouTube channel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-youtube-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-youtube-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-youtube-light.svg" alt="Subscribe to the CocoIndex YouTube channel — video tutorials, live demos, architecture deep dives, and AI agent recipes" width="100%" draggable="false"/></picture></a>
+      <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-youtube-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-youtube-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-youtube-light.svg" alt="LinkedIn" width="100%" draggable="false"/></picture></a>
     </td>
     <td align="center" valign="middle" width="25%">
-      <a href="https://cocoindex.io/blogs/" title="Read the CocoIndex blog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-blog-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-blog-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-blog-light.svg" alt="Read the CocoIndex blog — engineering deep dives, release notes, RAG and knowledge graph tutorials, and case studies" width="100%"/></picture></a>
+      <a href="https://orcid.org/0009-0003-9321-2853" title="ORCID"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-blog-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-blog-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-blog-light.svg" alt="ORCID" width="100%"/></picture></a>
     </td>
     <td align="center" valign="middle" width="25%">
-      <a href="https://x.com/cocoindex_io" title="Follow @cocoindex_io on X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-x-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-x-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-x-light.svg" alt="Follow @cocoindex_io on X (formerly Twitter) for release notes, demos, launches, and AI data pipeline updates" width="100%" draggable="false"/></picture></a>
+      <a href="https://Facebook.com/icedmist" title="Facebook — icedmist"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/comm-x-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/comm-x-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/comm-x-light.svg" alt="Facebook" width="100%" draggable="false"/></picture></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  📝 <a href="https://cocoindex.io/docs/contributing/guide/"><b>Contributing guide</b></a> &nbsp;·&nbsp;
-  🐛 <a href="https://github.com/cocoindex-io/cocoindex/labels/good%20first%20issue"><b>good first issues</b></a> &nbsp;·&nbsp;
-  💬 <a href="https://discord.com/invite/zpA9S2DR7s"><b>Say hi on Discord</b></a>
+  <a href="https://github.com/Icedmist?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Icedmist&show_icons=true&theme=transparent&hide_border=true" alt="Icedmist stats" height="165"/></a>
+  <a href="https://github.com/Icedmist?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icedmist&layout=compact&theme=transparent&hide_border=true" alt="Top langs" height="165"/></a>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Icedmist&theme=transparent&hide_border=true" alt="Streak" width="70%"/>
+</p>
+
+<p align="center">
+  📝 <a href="https://www.linkedin.com/in/nasir-ibrahim-imam-403ba523b"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  🐛 <a href="https://github.com/Icedmist?tab=repositories"><b>Repositories</b></a> &nbsp;·&nbsp;
+  💬 <a href="mailto:talk2icedmist@gmail.com"><b>Say hi</b></a>
 </p>
 
 <br/>
 
-<p align="center"><sub>Apache 2.0 · © CocoIndex contributors 🥥</sub></p>
+<p align="center"><sub>© Snow❄️ Icedmist — The Vendetta of a Gentleman Leaves no Man Standing</sub></p>
