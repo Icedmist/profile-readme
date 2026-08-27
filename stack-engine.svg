@@ -1,6 +1,6 @@
-<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
 <title>Stack engine — 8 sources → engine → 6 targets — only Δ reprocessed</title>
-<rect width="900" height="340" rx="16" fill="#0d1117" stroke="#30363d"/>
+<rect width="900" height="420" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="450" y="24" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">STACK ENGINE — <tspan fill="#16A534">8 sources</tspan> → engine → <tspan fill="#0e75b6">6 targets</tspan></text>
 <!-- sources left -->
 <g id="sources" font-family="monospace" font-size="8" text-anchor="middle">
