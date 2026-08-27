@@ -59,7 +59,11 @@ const snow = {
 
 ## Featured Builds ❤️
 
-<p align="center"><sub>3 most recent — cards rendered from READMEs (not a template)</sub></p>
+<p align="center">
+  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — flagship"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg"><img src="https://cocoindex.io/blobs/github/homepage/cocoindex-code-hero-light.svg" alt="Featured — device-beacon flagship — animated hero, AST-aware, live. Repurposed for personal flagship." width="100%"/></picture></a>
+</p>
+
+<p align="center"><sub>3 most recent — pin cards + table from READMEs (animated hero above)</sub></p>
 
 <p align="center">
   <a href="https://github.com/Icedmist/device-beacon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=device-beacon&theme=transparent&hide_border=true&show_owner=true" alt="device-beacon pin"/></a>
@@ -100,14 +104,21 @@ const snow = {
 
 ## How I Build
 
-```mermaid
-flowchart LR
-  A[Idea / Problem] --> B[Design]
-  B --> C[Build]
-  C --> D[Ship — the Δ]
-  D --> E[Observe]
-  E --> A
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/react4de-hero-light.svg" alt="How I build — Target = F(Idea). Declare the desired state, the system keeps it fresh. Your code stays simple — the engine handles the Δ." width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/either-side-change-light.svg" alt="What happens when either side changes — I track provenance so only the Δ propagates. Source change or code change, only affected dots re-run." width="100%"/>
+  </picture>
+</p>
 
 <p align="center"><sub><b>Target = F(Idea)</b> — declare the desired state, the system keeps it fresh. I ship the delta, not the whole.</sub></p>
 
@@ -126,6 +137,14 @@ flowchart LR
 ## Stack — for long-horizon products
 
 <p align="center"><sub>8 core tools → engine → 6 targets</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/incremental-engine-light.svg" alt="Stack engine — 8 source lanes through an incremental engine to 6 targets. Only the Δ is reprocessed — animated." width="100%"/>
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=python"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/></a>
@@ -170,6 +189,14 @@ flowchart LR
 ---
 
 ## Why this way?
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg">
+    <img src="https://cocoindex.io/blobs/github/homepage/why-incremental-dark.svg" alt="Why this way? Sub-second iteration, 10× cheaper, explainable, production-grade — animated." width="100%"/>
+  </picture>
+</p>
 
 |  | Principle |  |
 |---|---|---|
