@@ -1,0 +1,59 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Why this way? — 4 pillars</title>
+<rect width="900" height="260" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="450" y="26" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">WHY THIS WAY? — <tspan fill="#16A534">4 pillars</tspan></text>
+<!-- 4 cards -->
+<g id="c1">
+<rect x="22" y="44" width="208" height="180" rx="12" fill="#161b22" stroke="#16A534" stroke-width="1.2"/>
+<circle cx="126" cy="72" r="18" fill="none" stroke="#16A534" stroke-opacity="0.3"><animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/></circle>
+<text x="126" y="78" text-anchor="middle" font-size="14">⏱️</text>
+<text x="126" y="100" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">Sub-second</text>
+<text x="126" y="114" text-anchor="middle" font-family="monospace" font-size="8" fill="#c9d1d9">fresh</text>
+<text x="126" y="138" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8b949e">source → target</text>
+<text x="126" y="150" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8b949e">in &lt;1s so agents</text>
+<text x="126" y="162" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#8b949e">see the world as is</text>
+<text x="126" y="184" text-anchor="middle" font-family="monospace" font-size="7" fill="#16A534">stopwatch → tick</text>
+<circle cx="126" cy="72" r="2" fill="#16A534"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></circle>
+</g>
+<g id="c2">
+<rect x="240" y="44" width="208" height="180" rx="12" fill="#161b22" stroke="#0e75b6" stroke-width="1.2"/>
+<circle cx="344" cy="72" r="18" fill="none" stroke="#0e75b6" stroke-opacity="0.3"><animate attributeName="r" values="18;22;18" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="344" y="78" text-anchor="middle" font-size="14">💰</text>
+<text x="344" y="100" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">10× cheaper</text>
+<text x="344" y="114" text-anchor="middle" font-family="monospace" font-size="8" fill="#c9d1d9">at scale</text>
+<rect x="270" y="128" width="148" height="14" rx="4" fill="#0d1117" stroke="#30363d"/>
+<rect x="270" y="128" width="12" height="14" rx="4" fill="#0e75b6"><animate attributeName="width" values="12;148;12" dur="3s" repeatCount="indefinite"/></rect>
+<text x="344" y="162" text-anchor="middle" font-family="monospace" font-size="7" fill="#8b949e">10k rows · only Δ 0.1%</text>
+<text x="344" y="174" text-anchor="middle" font-family="monospace" font-size="7" fill="#8b949e">re-runs, 99.9% cached</text>
+<text x="344" y="192" text-anchor="middle" font-family="monospace" font-size="7" fill="#0e75b6">skip the other 99.9%</text>
+</g>
+<g id="c3">
+<rect x="458" y="44" width="208" height="180" rx="12" fill="#161b22" stroke="#16A534" stroke-width="1.2"/>
+<circle cx="562" cy="72" r="18" fill="none" stroke="#16A534" stroke-opacity="0.3"><animate attributeName="r" values="18;22;18" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+<text x="562" y="78" text-anchor="middle" font-size="14">🔍</text>
+<text x="562" y="100" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">Explainable</text>
+<text x="562" y="114" text-anchor="middle" font-family="monospace" font-size="8" fill="#c9d1d9">by default</text>
+<path d="M 500 132 H 624" stroke="#16A534" stroke-width="1.2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" values="0;8" dur="0.8s" repeatCount="indefinite"/></path>
+<circle cx="500" cy="132" r="4" fill="#0e75b6"/><circle cx="624" cy="132" r="4" fill="#16A534"/>
+<text x="562" y="150" text-anchor="middle" font-family="monospace" font-size="7" fill="#8b949e">handbook.md L42</text>
+<text x="562" y="162" text-anchor="middle" font-family="monospace" font-size="7" fill="#8b949e">→ vector · auditable</text>
+<text x="562" y="184" text-anchor="middle" font-family="monospace" font-size="7" fill="#16A534">every byte traceable</text>
+</g>
+<g id="c4">
+<rect x="676" y="44" width="202" height="180" rx="12" fill="#161b22" stroke="#0e75b6" stroke-width="1.2"/>
+<circle cx="777" cy="72" r="18" fill="none" stroke="#0e75b6" stroke-opacity="0.3"><animate attributeName="r" values="18;22;18" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text x="777" y="78" text-anchor="middle" font-size="14">🛡️</text>
+<text x="777" y="100" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">Production-grade</text>
+<text x="777" y="114" text-anchor="middle" font-family="monospace" font-size="8" fill="#c9d1d9">Rust core</text>
+<g font-family="monospace" font-size="7" fill="#8b949e" text-anchor="middle">
+<text x="777" y="136">retries · backoff</text>
+<text x="777" y="148">DLQ · no-loss</text>
+</g>
+<g fill="none" stroke="#0e75b6" stroke-width="1">
+<circle cx="730" cy="170" r="8" stroke-opacity="0.6"><animate attributeName="r" values="8;12;8" dur="1.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="777" cy="170" r="8" stroke-opacity="0.6"><animate attributeName="r" values="8;12;8" dur="1.8s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="824" cy="170" r="8" stroke-opacity="0.6"><animate attributeName="r" values="8;12;8" dur="1.8s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></circle>
+</g>
+<text x="777" y="200" text-anchor="middle" font-family="monospace" font-size="7" fill="#0e75b6">shield + retries</text>
+</g>
+</svg>
