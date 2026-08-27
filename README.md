@@ -114,13 +114,9 @@ const snow = {
 
 <p align="center"><sub><b>Target = F(Idea)</b> — declare the desired state, the system keeps it fresh. I ship the delta, not the whole.</sub></p>
 
-| Step | What I do | How |
-|---|---|---|
-| **01 — Discover** | Map the real problem, not the proxy | Interviews, `Board → Hospitals → Depts` modeling |
-| **02 — Design** | Minimal, explainable, offline-first | Figma → Tailwind, Firebase/Postgres schema |
-| **03 — Build** | Parallel by default, incremental | `TS/Python/Dart` · `React/Next.js · FastAPI · Flutter` |
-| **04 — Ship Δ** | Only changed dots re-run | `git` · `Docker` · `Vercel` · `Cloud Run` |
-| **05 — Observe** | Logs, telemetry, streaks | `device-beacon` style telemetry · `Evergreeners` heatmap |
+<p align="center">
+  <img src="how-steps.svg" width="100%" alt="How I Build — 5 steps animated — Discover → Design → Build → Ship Δ → Observe — explainable simple"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=scaleIn" width="100%" alt="divider"/>
 
@@ -182,12 +178,9 @@ const snow = {
   <img src="why-hero.svg" width="100%" alt="Why this way? — 4 pillars: sub-second, 10× cheaper, explainable, production-grade — animated"/>
 </p>
 
-|  | Principle |  |
-|---|---|---|
-| ⚡ | **Sub-second iteration** | Ship the Δ, not the world. Changes propagate in seconds, not batches. |
-| 💰 | **10× cheaper at scale** | Only changed dots re-run — skip 99% of compute/embed/LLM cost. |
-| 🔍 | **Explainable by default** | Every output traces to its source row — debuggable, auditable. |
-| 🛡️ | **Production-grade** | Retries, backoff, offline-first, no-data-loss — one bad row never stalls the flow. |
+<p align="center">
+  <img src="why-table.svg" width="100%" alt="Why this way? — 4 principles animated table — Sub-second, 10× cheaper, Explainable, Production-grade — simple explainable"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A534,100:0e75b6&height=2&animation=fadeIn" width="100%" alt="divider"/>
 
@@ -198,14 +191,19 @@ const snow = {
 <p align="center"><a href="https://github.com/Icedmist?tab=repositories"><b>Working products — clone, run, ship →</b></a></p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/device-beacon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=device-beacon&theme=transparent&hide_border=true" alt="device-beacon"/></a>
-  <a href="https://github.com/Icedmist/gshsmb-hmis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=gshsmb-hmis&theme=transparent&hide_border=true" alt="gshsmb-hmis"/></a>
-  <a href="https://github.com/Icedmist/nexafinal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=nexafinal&theme=transparent&hide_border=true" alt="nexafinal"/></a>
-  <a href="https://github.com/Icedmist/Evergreeners-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=Evergreeners-web&theme=transparent&hide_border=true" alt="Evergreeners-web"/></a>
-  <a href="https://github.com/Icedmist/kana-dojo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=kana-dojo&theme=transparent&hide_border=true" alt="kana-dojo"/></a>
-  <a href="https://github.com/Icedmist/propabridge-adk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=propabridge-adk&theme=transparent&hide_border=true" alt="propabridge-adk"/></a>
-  <a href="https://github.com/Icedmist/midnight-commits"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=midnight-commits&theme=transparent&hide_border=true" alt="midnight-commits"/></a>
-  <a href="https://github.com/Icedmist/gitledger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Icedmist&repo=gitledger&theme=transparent&hide_border=true" alt="gitledger"/></a>
+  <img src="what-built-grid.svg" width="100%" alt="What I've Built — 8 products animated — device-beacon · gshsmb-hmis · nexafinal · Evergreeners · kana-dojo · propabridge · midnight-commits · gitledger — explainable simple"/>
+</p>
+<p align="center">
+<sub>
+<a href="https://github.com/Icedmist/device-beacon">device-beacon</a> ·
+<a href="https://github.com/Icedmist/gshsmb-hmis">gshsmb-hmis</a> ·
+<a href="https://github.com/Icedmist/nexafinal">nexafinal</a> ·
+<a href="https://github.com/Icedmist/Evergreeners-web">Evergreeners</a> ·
+<a href="https://github.com/Icedmist/kana-dojo">kana-dojo</a> ·
+<a href="https://github.com/Icedmist/propabridge-adk">propabridge</a> ·
+<a href="https://github.com/Icedmist/midnight-commits">midnight</a> ·
+<a href="https://github.com/Icedmist/gitledger">gitledger</a>
+</sub>
 </p>
 
 <details>

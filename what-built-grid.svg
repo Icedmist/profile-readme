@@ -1,0 +1,88 @@
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>What I've Built — 8 products — animated explainable</title>
+<rect width="900" height="380" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="450" y="26" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">WHAT I'VE BUILT — <tspan fill="#16A534">8 products</tspan> — clone, run, ship →</text>
+<!-- Row 1 -->
+<g id="b1">
+<rect x="16" y="44" width="210" height="150" rx="10" fill="#161b22" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/></rect>
+<text x="26" y="64" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">● device-beacon</text>
+<text x="26" y="78" font-family="monospace" font-size="7" fill="#0e75b6">Python · Telegram</text>
+<text x="26" y="96" font-family="monospace" font-size="7.5" fill="#c9d1d9">Wi-Fi BSSID → ~50m</text>
+<text x="26" y="108" font-family="monospace" font-size="7.5" fill="#c9d1d9">battery telemetry</text>
+<text x="26" y="120" font-family="monospace" font-size="7.5" fill="#8b949e">anti-theft · zero-dep</text>
+<text x="26" y="138" font-family="monospace" font-size="7" fill="#8b949e">bot for laptops/RPis</text>
+<text x="26" y="160" font-family="monospace" font-size="7" fill="#16A534">→ live via Telegram</text>
+<circle cx="200" cy="56" r="3" fill="#16A534"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+</g>
+<g id="b2">
+<rect x="236" y="44" width="210" height="150" rx="10" fill="#161b22" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="0.3s" repeatCount="indefinite"/></rect>
+<text x="246" y="64" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">● gshsmb-hmis</text>
+<text x="246" y="78" font-family="monospace" font-size="7" fill="#16A534">TypeScript · HMIS</text>
+<text x="246" y="96" font-family="monospace" font-size="7.5" fill="#c9d1d9">Board → Hospitals</text>
+<text x="246" y="108" font-family="monospace" font-size="7.5" fill="#c9d1d9">→ Departments</text>
+<text x="246" y="120" font-family="monospace" font-size="7.5" fill="#8b949e">→ Employees</text>
+<text x="246" y="138" font-family="monospace" font-size="7" fill="#8b949e">Gombe State centralized</text>
+<text x="246" y="160" font-family="monospace" font-size="7" fill="#0e75b6">→ RBAC · production</text>
+</g>
+<g id="b3">
+<rect x="456" y="44" width="210" height="150" rx="10" fill="#161b22" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="0.6s" repeatCount="indefinite"/></rect>
+<text x="466" y="64" font-family="monospace" font-size="10" font-weight="700" fill="#c9d1d9">● nexafinal</text>
+<text x="466" y="78" font-family="monospace" font-size="7" fill="#0e75b6">TS · React 19</text>
+<text x="466" y="96" font-family="monospace" font-size="7.5" fill="#c9d1d9">Offline-first POS</text>
+<text x="466" y="108" font-family="monospace" font-size="7.5" fill="#c9d1d9">Paystack · RBAC</text>
+<text x="466" y="120" font-family="monospace" font-size="7.5" fill="#8b949e">multi-branch inventory</text>
+<text x="466" y="138" font-family="monospace" font-size="7" fill="#8b949e">Vite 7 · Tailwind 4</text>
+<text x="466" y="160" font-family="monospace" font-size="7" fill="#16A534">→ store OS</text>
+</g>
+<g id="b4">
+<rect x="676" y="44" width="210" height="150" rx="10" fill="#161b22" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text x="686" y="64" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">● Evergreeners</text>
+<text x="686" y="78" font-family="monospace" font-size="7" fill="#16A534">TS · Fastify</text>
+<text x="686" y="96" font-family="monospace" font-size="7.5" fill="#c9d1d9">heatmap · streak</text>
+<text x="686" y="108" font-family="monospace" font-size="7.5" fill="#c9d1d9">Better Auth</text>
+<text x="686" y="120" font-family="monospace" font-size="7.5" fill="#8b949e">Drizzle + Postgres</text>
+<text x="686" y="138" font-family="monospace" font-size="7" fill="#8b949e">digital garden</text>
+<text x="686" y="160" font-family="monospace" font-size="7" fill="#0e75b6">→ habit compounding</text>
+</g>
+<!-- Row 2 -->
+<g id="b5">
+<rect x="16" y="204" width="210" height="150" rx="10" fill="#161b22" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="26" y="224" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">● kana-dojo</text>
+<text x="26" y="238" font-family="monospace" font-size="7" fill="#0e75b6">TS · Next.js</text>
+<text x="26" y="256" font-family="monospace" font-size="7.5" fill="#c9d1d9">Japanese learning</text>
+<text x="26" y="268" font-family="monospace" font-size="7.5" fill="#c9d1d9">Vercel OSS ·</text>
+<text x="26" y="280" font-family="monospace" font-size="7.5" fill="#8b949e">Duolingo-inspired</text>
+<text x="26" y="298" font-family="monospace" font-size="7" fill="#8b949e">customizable training</text>
+<text x="26" y="320" font-family="monospace" font-size="7" fill="#16A534">→ kanadojo.com</text>
+</g>
+<g id="b6">
+<rect x="236" y="204" width="210" height="150" rx="10" fill="#161b22" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="246" y="224" font-family="monospace" font-size="10" font-weight="700" fill="#0e75b6">● propabridge</text>
+<text x="246" y="238" font-family="monospace" font-size="7" fill="#16A534">Python · ADK</text>
+<text x="246" y="256" font-family="monospace" font-size="7.5" fill="#c9d1d9">WhatsApp · HA/YO</text>
+<text x="246" y="268" font-family="monospace" font-size="7.5" fill="#c9d1d9">Gemini · pgvector</text>
+<text x="246" y="280" font-family="monospace" font-size="7.5" fill="#8b949e">MCP · Twilio · live</text>
+<text x="246" y="298" font-family="monospace" font-size="7" fill="#8b949e">verified concierge</text>
+<text x="246" y="320" font-family="monospace" font-size="7" fill="#0e75b6">→ Nigeria property</text>
+</g>
+<g id="b7">
+<rect x="456" y="204" width="210" height="150" rx="10" fill="#161b22" stroke="#0e75b6"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="466" y="224" font-family="monospace" font-size="10" font-weight="700" fill="#c9d1d9">● midnight</text>
+<text x="466" y="238" font-family="monospace" font-size="7" fill="#16A534">Python · Streamlit</text>
+<text x="466" y="256" font-family="monospace" font-size="7.5" fill="#c9d1d9">Present / Absent / Late</text>
+<text x="466" y="268" font-family="monospace" font-size="7.5" fill="#c9d1d9">SQLite · offline</text>
+<text x="466" y="280" font-family="monospace" font-size="7.5" fill="#8b949e">live dashboard</text>
+<text x="466" y="298" font-family="monospace" font-size="7" fill="#8b949e">CSV export</text>
+<text x="466" y="320" font-family="monospace" font-size="7" fill="#0e75b6">→ attendance.db</text>
+</g>
+<g id="b8">
+<rect x="676" y="204" width="210" height="150" rx="10" fill="#161b22" stroke="#16A534"><animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="686" y="224" font-family="monospace" font-size="10" font-weight="700" fill="#16A534">● gitledger</text>
+<text x="686" y="238" font-family="monospace" font-size="7" fill="#0e75b6">TS · Analytics</text>
+<text x="686" y="256" font-family="monospace" font-size="7.5" fill="#c9d1d9">git log → ledger</text>
+<text x="686" y="268" font-family="monospace" font-size="7.5" fill="#c9d1d9">commit insights</text>
+<text x="686" y="280" font-family="monospace" font-size="7.5" fill="#8b949e">ranked · auditable</text>
+<text x="686" y="298" font-family="monospace" font-size="7" fill="#8b949e">fork · 1★</text>
+<text x="686" y="320" font-family="monospace" font-size="7" fill="#16A534">→ ledger</text>
+</g>
+</svg>
