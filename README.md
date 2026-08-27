@@ -42,6 +42,39 @@
 
 <br/>
 
+<!-- Terminal profile card — generated with fastfetch + chafa/silicon style (see note below) -->
+<div align="center">
+<table width="100%" style="max-width:780px; background:#0d1117; border:1px solid #30363d; border-radius:12px; overflow:hidden;" role="presentation">
+<tr><td colspan="2" align="left" style="background:#161b22; padding:8px 12px; border-bottom:1px solid #30363d;">
+<span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ff5f56; margin-right:6px;"></span>
+<span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#ffbd2e; margin-right:6px;"></span>
+<span style="display:inline-block; width:12px; height:12px; border-radius:50%; background:#27c93f;"></span>
+<span style="color:#8b949e; font-family:monospace; font-size:12px; margin-left:12px;">snow@icedmist — zsh — 80×24</span>
+</td></tr>
+<tr>
+<td align="center" valign="middle" width="32%" style="padding:16px;">
+<img src="https://avatars.githubusercontent.com/u/181909398?v=4" width="120" height="120" style="border-radius:50%; border:2px solid #30363d;" alt="Icedmist avatar"/>
+<br/>
+<sub style="color:#8b949e; font-family:monospace;">fastfetch + chafa</sub>
+</td>
+<td align="left" valign="middle" style="padding:16px; font-family:monospace; font-size:12px; color:#c9d1d9; line-height:1.6;">
+<span style="color:#58a6ff;">const</span> <span style="color:#ff7b72;">snow</span> = {<br/>
+&nbsp;&nbsp;role: <span style="color:#a5d6ff;">"AI • Cloud • Automation"</span>,<br/>
+&nbsp;&nbsp;motto: <span style="color:#a5d6ff;">"Vendetta of a Gentleman"</span>,<br/>
+&nbsp;&nbsp;stack: [<span style="color:#a5d6ff;">"TS"</span>, <span style="color:#a5d6ff;">"Python"</span>, <span style="color:#a5d6ff;">"Dart"</span>],<br/>
+&nbsp;&nbsp;focus: <span style="color:#a5d6ff;">"incremental, always-fresh systems"</span>,<br/>
+&nbsp;&nbsp;location: <span style="color:#a5d6ff;">"Gombe → Global"</span><br/>
+};<br/>
+<span style="color:#8b949e;">// $ chafa avatar.png --format symbols | fastfetch</span><br/>
+<span style="color:#8b949e;">// $ silicon profile.js -o profile.png</span>
+</td>
+</tr>
+</table>
+</div>
+<p align="center"><sub>Avatar rendered like a Linux terminal — generate yours with <code>fastfetch</code> + <code>chafa</code>/<code>viu</code> for ASCII, or <code>silicon</code>/<code>carbon.now.sh</code> for code-window PNGs, or <code>onefetch</code> for repo-native ASCII. Tip: <code>chafa --format symbols avatar.png</code> or <code>silicon -l js profile.js</code></sub></p>
+
+<br/>
+
 <h2 align="center">Featured Builds ❤️</h2>
 
 <p align="center">
@@ -93,6 +126,44 @@
   </picture>
 </p>
 
+<!-- Tech stack — same CocoIndex layout: 8 sources → engine → 6 targets, but with your logos -->
+<p align="center"><b>My actual stack — built-in logos</b> · <em>inspired by CocoIndex’s 8→6 flow</em></p>
+
+<p align="center">
+  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=python"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/></a>&nbsp;
+  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=typescript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>&nbsp;
+  <a href="https://github.com/Icedmist?tab=repositories&q=&type=&language=javascript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/kana-dojo"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/plokitch-app"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/plokitch-app"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/></a>
+  <br/>
+  <sub>Python • TypeScript • JavaScript • React • Next.js • Tailwind • Dart • Flutter</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Icedmist/gshsmb-hmis"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/propabridge-adk"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/Evergreeners-web"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/nexafinal"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/device-beacon"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>&nbsp;
+  <a href="https://github.com/Icedmist"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>&nbsp;
+  <a href="https://github.com/Icedmist/device-beacon"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
+  <br/>
+  <sub>Node • FastAPI • Firebase • Postgres • Vercel • Docker • Git • Linux</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwindcss" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Google_ADK-Gemini-4285F4?logo=google&logoColor=white" alt="ADK"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/Drizzle-ORM-C5F277" alt="Drizzle"/>
+</p>
+
 <br/><br/>
 
 <h2 align="center">Why <em>this way?</em></h2>
@@ -116,35 +187,35 @@
 <p align="center"><b>Selected from <a href="https://github.com/Icedmist?tab=repositories">39 repos</a> — AI, Cloud, Automation.</b></p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — Linux telemetry + Wi-Fi location bot for Telegram"><img src="https://cocoindex.io/blobs/github/homepage/example-code.svg" alt="device-beacon — lightweight Linux telemetry, battery and Wi-Fi location bot for Telegram. Python, incremental." width="70%"/></a>
+  <a href="https://github.com/Icedmist/device-beacon" title="device-beacon — README: Street-level Wi-Fi triangulation (Apple DB + OSM) to ~50m, battery telemetry, anti-theft, zero-dependency Telegram bot — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-code.svg" alt="device-beacon — from README: street-level geolocation via Wi-Fi BSSID → Apple DB + OSM (~50m), battery & power telemetry, anti-theft, proactive alerts. Zero-dependency Python bot for laptops/RPis. — animation: code index card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/gshsmb-hmis" title="GSHSMB HMIS — Hospital Management Information System for Gombe State"><img src="https://cocoindex.io/blobs/github/homepage/example-pdf.svg" alt="GSHSMB HMIS — hospital service management system. TypeScript, production-grade." width="70%"/></a>
+  <a href="https://github.com/Icedmist/gshsmb-hmis" title="GSHSMB HMIS — README: Board → Hospitals → Departments → Employees hierarchy, centralized HMIS for Gombe State — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-intake.svg" alt="GSHSMB HMIS — from README: Board → Hospitals → Departments → Employees. Centralized Hospital Services Management Information System, TypeScript. — animation: structured intake card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/nexafinal" title="Nexa OS — store operating system"><img src="https://cocoindex.io/blobs/github/homepage/example-multicode.svg" alt="Nexa OS — store OS. TypeScript, multi-service." width="70%"/></a>
+  <a href="https://github.com/Icedmist/nexafinal" title="Nexa Store OS v2 — README: React 19 + Vite 7 + Tailwind 4 + Firebase + TS, offline-first POS, multi-branch inventory, Paystack virtual accounts, multi-tier pricing — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-multicode.svg" alt="Nexa Store OS v2 — from README: React 19 · Vite 7 · Tailwind 4 · Firebase. Offline-first POS, multi-branch inventory, virtual accounts (Paystack), CRM & credit ledger. — animation: multi-code summarization card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/Evergreeners-web" title="Evergreeners — web platform"><img src="https://cocoindex.io/blobs/github/homepage/example-kg.svg" alt="Evergreeners — web platform. TypeScript, community." width="70%"/></a>
+  <a href="https://github.com/Icedmist/Evergreeners-web" title="Evergreeners — README: Digital garden, GitHub-style heatmap, streak tracking, Better Auth + Drizzle ORM + Postgres + Fastify — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-kg.svg" alt="Evergreeners — from README: digital garden, contribution heatmap, streak tracking, Dark-mode Tailwind, Better Auth, Drizzle + Postgres, Fastify API. — animation: knowledge-graph card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/kana-dojo" title="kana-dojo — aesthetic Japanese learning platform"><img src="https://cocoindex.io/blobs/github/homepage/example-podcast.svg" alt="kana-dojo — Japanese learning platform, Next.js + Vercel. Contributions welcome." width="70%"/></a>
+  <a href="https://github.com/Icedmist/kana-dojo" title="KanaDojo — README: Aesthetic Japanese learning, Next.js + Vercel OSS, Duolingo + Monkeytype inspired, customizable — TypeScript"><img src="https://cocoindex.io/blobs/github/homepage/example-podcast.svg" alt="KanaDojo — from README: aesthetic Japanese platform, Next.js, Vercel OSS Program, Duolingo/Monkeytype inspired, highly customizable training. — animation: podcast/learning card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/propabridge-adk" title="Propabridge ADK — Python agent kit"><img src="https://cocoindex.io/blobs/github/homepage/example-intake.svg" alt="Propabridge ADK — Python agent development kit." width="70%"/></a>
+  <a href="https://github.com/Icedmist/propabridge-adk" title="Propabridge ADK — README: Multilingual WhatsApp concierge (Hausa/Yoruba/Igbo/Pidgin), Google ADK + Gemini + pgvector + MCP + Twilio — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-hn-trending.svg" alt="Propabridge ADK — from README: multilingual WhatsApp concierge (EN/HA/YO/IG/Pidgin), Google ADK, Gemini embeddings + pgvector, MCP server, Twilio Voice. Live traffic, not sandbox. — animation: HN/LLM extraction card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/gitledger" title="GitLedger — TypeScript git analytics"><img src="https://cocoindex.io/blobs/github/homepage/example-hn-trending.svg" alt="GitLedger — git analytics. TypeScript, ranked insights." width="70%"/></a>
+  <a href="https://github.com/Icedmist/gitledger" title="GitLedger — README: TypeScript git analytics (fork) — 1 star"><img src="https://cocoindex.io/blobs/github/homepage/example-csv-kafka.svg" alt="GitLedger — TypeScript git analytics, ledger for commits. — animation: CSV→Kafka streaming card" width="70%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Icedmist/midnight-commits" title="midnight-commits — Python automation"><img src="https://cocoindex.io/blobs/github/homepage/example-csv-kafka.svg" alt="midnight-commits — Python automation, incremental, no loops." width="70%"/></a>
+  <a href="https://github.com/Icedmist/midnight-commits" title="Midnight Attendance — README: Streamlit + SQLite offline logger, Present/Absent/Late, live dashboard, CSV export — Python"><img src="https://cocoindex.io/blobs/github/homepage/example-pdf.svg" alt="Midnight Attendance — from README: Offline-first Streamlit + SQLite, interactive Present/Absent/Late, live logs dashboard, CSV export from attendance.db. — animation: PDF→RAG card" width="70%"/></a>
 </p>
 
 <br/>
