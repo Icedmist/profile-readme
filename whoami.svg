@@ -1,0 +1,42 @@
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>snow@icedmist — zsh — 80×24</title>
+<rect width="900" height="240" rx="12" fill="#0d1117" stroke="#30363d"/>
+<!-- header -->
+<rect width="900" height="36" rx="12" fill="#161b22"/>
+<rect y="24" width="900" height="12" fill="#161b22"/>
+<circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="18" r="6" fill="#27c93f"/>
+<text x="90" y="22" font-family="monospace" font-size="10" fill="#8b949e">snow@icedmist — zsh — 80×24</text>
+<text x="750" y="22" font-family="monospace" font-size="9" fill="#8b949e">● zsh</text>
+<!-- left avatar -->
+<g id="avatar">
+<circle cx="140" cy="130" r="52" fill="none" stroke="#16A534" stroke-opacity="0.25">
+<animate attributeName="r" values="52;58;52" dur="3s" repeatCount="indefinite"/>
+<animate attributeName="stroke-opacity" values="0.25;0.5;0.25" dur="3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="140" cy="130" r="44" fill="#161b22" stroke="#30363d"/>
+<circle cx="140" cy="130" r="38" fill="#0d1117" stroke="#16A534" stroke-width="1.5"/>
+<text x="140" y="140" text-anchor="middle" font-size="28">❄️</text>
+<text x="140" y="175" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#c9d1d9">Icedmist</text>
+<text x="140" y="187" text-anchor="middle" font-family="monospace" font-size="7" fill="#8b949e">fastfetch + chafa</text>
+</g>
+<!-- divider -->
+<line x1="260" y1="50" x2="260" y2="228" stroke="#30363d" stroke-opacity="0.5"/>
+<!-- right code -->
+<g id="code" font-family="monospace" font-size="11">
+<text x="280" y="68" fill="#8b949e">// $ fastfetch — $ chafa avatar.png --format symbols</text>
+<text x="280" y="84" fill="#8b949e">// $ silicon profile.js -o profile.png — $ onefetch</text>
+<text x="280" y="108" fill="#58a6ff">const<tspan fill="#c9d1d9"> </tspan><tspan fill="#ff7b72">snow</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+<text x="300" y="128" fill="#c9d1d9">role: <tspan fill="#a5d6ff">"AI • Cloud • Automation"</tspan>,</text>
+<text x="300" y="148" fill="#c9d1d9">motto: <tspan fill="#a5d6ff">"Vendetta of a Gentleman"</tspan>,</text>
+<text x="300" y="168" fill="#c9d1d9">stack: [<tspan fill="#a5d6ff">"TypeScript"</tspan>, <tspan fill="#a5d6ff">"Python"</tspan>, <tspan fill="#a5d6ff">"Dart"</tspan>],</text>
+<text x="300" y="188" fill="#c9d1d9">focus: <tspan fill="#a5d6ff">"incremental, always-fresh systems"</tspan>,</text>
+<text x="300" y="208" fill="#c9d1d9">location: <tspan fill="#a5d6ff">"Gombe → Global"</tspan></text>
+<text x="280" y="224" fill="#c9d1d9">};</text>
+<!-- blinking cursor -->
+<rect x="298" y="215" width="8" height="12" fill="#16A534" opacity="0.9">
+<animate attributeName="opacity" values="0.9;0;0.9" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>
